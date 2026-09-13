@@ -16,7 +16,7 @@ Sinistres majeurs survenus en France depuis 1810 et évolution de la réglementa
 
 Une même pièce peut porter plusieurs preuves : `nombreDocuments` compte les pièces distinctes, `nombrePreuves` les affirmations.
 
-Ce dépôt reprend à l'identique la version publiée sur le site, qui fait foi. L'historique des commits trace les corrections.
+Ce dépôt reprend à l'identique la version publiée sur le site, qui fait foi. Il est mis à jour automatiquement chaque nuit, et l'historique des commits trace les corrections.
 
 ## Méthode
 
