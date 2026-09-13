@@ -1,0 +1,1104 @@
+{
+  "nom": "La Mémoire du Feu : sinistres et évolution de la réglementation incendie des établissements recevant du public en France",
+  "description": "Des feux du XIXe siècle aux drames contemporains, découvrez les sinistres majeurs, les retours d'expérience techniques et les textes qui ont forgé la doctrine française de sécurité contre l'incendie et la panique dans les établissements recevant du public.",
+  "langue": "fr",
+  "auteur": {
+    "nom": "Alan Laffeach",
+    "url": "https://continuumsolutions.fr/a-propos"
+  },
+  "editeur": {
+    "nom": "Continuum Solutions",
+    "url": "https://continuumsolutions.fr"
+  },
+  "page": "https://continuumsolutions.fr/histoire-reglementaire",
+  "distribution": {
+    "json": "https://continuumsolutions.fr/donnees/memoire-du-feu.json",
+    "markdown": "https://continuumsolutions.fr/histoire-reglementaire.md",
+    "depot": "https://github.com/auditalent/memoire-du-feu"
+  },
+  "licence": {
+    "nom": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "identifiant": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.fr",
+    "portee": "La licence couvre les descriptions, résumés et affirmations rédigés pour ce jeu de données. Les documents officiels référencés restent soumis à leur propre régime."
+  },
+  "citationRecommandee": "Alan Laffeach, Continuum Solutions, « La Mémoire du Feu », https://continuumsolutions.fr/histoire-reglementaire, version du 2026-09-13, licence CC BY 4.0.",
+  "dateModification": "2026-09-13",
+  "nombreSinistres": 17,
+  "nombreDocuments": 58,
+  "nombrePreuves": 60,
+  "sinistres": [
+    {
+      "id": "ambassade-autriche-1810",
+      "titre": "L'incendie de l'ambassade d'Autriche (1810)",
+      "date": "1er juillet 1810",
+      "periode": "1810-1941",
+      "etablissement": "Ambassade d'Autriche",
+      "sousTitre": "Un bal dans une salle provisoire, et la fin des gardes-pompes civils de Paris",
+      "lieu": "Paris (9e arrondissement)",
+      "adresse": "Hôtel du prince de Schwarzenberg, ambassadeur d'Autriche, Paris",
+      "bilanHumain": "De nombreuses victimes. Aucun bilan chiffré officiel n'a été retrouvé.",
+      "activite": "Bal donné dans une salle provisoire construite pour la fête",
+      "circonstances": "Le 1er juillet 1810, un bal est donné dans une salle provisoire élevée pour la fête, décorée de tentures et de vélums. Un premier départ de feu est maîtrisé ; le second gagne les décors, et des matériaux enflammés tombent sur le public. L'évacuation se fait par une sortie unique.",
+      "suites": "Le rapport de l'Assemblée nationale de février 2024 écrit que l'incendie de l'ambassade d'Autriche a conduit Napoléon Ier à prendre le décret impérial du 18 septembre 1811. Ce décret crée un bataillon de sapeurs de quatre compagnies de cent quarante-deux hommes, chargé du service des pompes à incendie de Paris, sous les ordres et l'administration du préfet de police et sous l'autorité du ministre de l'intérieur. Son article 41 soumet les sapeurs-pompiers aux lois, règlements et arrêtés relatifs à la discipline, police et justice militaire, de la même manière que les compagnies de réserve.",
+      "recit": [
+        "Le 1er juillet 1810, l'ambassade d'Autriche donne un bal en l'honneur du mariage de Napoléon et de Marie-Louise. La salle a été construite pour la soirée : une structure provisoire, des tentures et des vélums tendus aux murs et au plafond, un éclairage à flamme nue. Un premier départ de feu est maîtrisé, le second gagne les décors. Les matériaux enflammés tombent sur les invités, les lustres cèdent, et l'évacuation se fait par une sortie unique. Plus de cent personnes périssent.",
+        "Les gardes-pompes, dont le service s'est dégradé depuis la Révolution, avaient été tenus à l'écart de la soirée par l'architecte de la salle. Le service des pompes de la capitale cesse d'être assuré par eux. Un projet de décret est daté du 27 mars 1811. Le 18 septembre suivant, le décret impérial crée un bataillon de sapeurs chargé spécialement du service des pompes à incendie de Paris, placé sous les ordres du préfet de police. Ses articles soumettent les sapeurs-pompiers à la discipline, à la police et à la justice militaires."
+      ],
+      "enseignement": "Le sinistre a lieu dans une construction provisoire, avec des décors combustibles, un éclairage à flamme nue et une seule sortie. La réponse de 1811 porte sur le service de secours, pas sur la construction ni sur l'aménagement : ces règles-là ne viendront qu'avec les ordonnances de police de la fin du siècle.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#ambassade-autriche-1810",
+      "preuves": [
+        "an-2024-bataillon-1811",
+        "decret-imperial-1811"
+      ]
+    },
+    {
+      "id": "salles-de-spectacle",
+      "titre": "L'incendie de l'Opéra-Comique (1887)",
+      "date": "25 mai 1887",
+      "periode": "1810-1941",
+      "etablissement": "Opéra-Comique",
+      "sousTitre": "Un décor de scène s'enflamme pendant le premier acte, et la salle Favart brûle en quelques minutes",
+      "lieu": "Paris (2e arrondissement)",
+      "adresse": "Salle Favart, place Boieldieu, 75002 Paris",
+      "bilanHumain": "84 morts",
+      "activite": "Théâtre lyrique",
+      "circonstances": "Le 25 mai 1887, peu après le début du premier acte de Mignon, un décor de la scène prend feu. Les flammes et les fumées gagnent la salle. L'alerte est donnée à 21 h 13 par un avertisseur de la place Boieldieu, les premiers sapeurs-pompiers arrivent deux minutes plus tard, et deux cent quarante-cinq hommes sont engagés.",
+      "suites": "Les salles parisiennes relèvent alors de l'ordonnance de police du 16 mai 1881, prise deux mois après l'incendie du théâtre municipal de Nice. L'ordonnance du 17 avril 1888 règle l'emploi de la lumière électrique dans les théâtres, cafés-concerts et autres spectacles publics : déclaration préalable avec plans en triple exemplaire, travaux subordonnés à la notification de l'administration, section des conducteurs proportionnée à l'intensité, tension limitée à 300 volts en courant continu sauf autorisation spéciale de la Commission supérieure des théâtres, et interdiction d'employer les conduites d'eau et de gaz comme conducteur. L'ordonnance du 1er septembre 1898 remplace ensuite celle de 1881.",
+      "recit": [
+        "Le 25 mai 1887, peu après le début du premier acte de Mignon, un décor de la scène prend feu. En quelques minutes, la salle Favart devient un piège. L'alerte est donnée à 21 h 13 par un avertisseur de la place Boieldieu, les premiers sapeurs-pompiers arrivent deux minutes plus tard et deux cent quarante-cinq hommes sont engagés. Quatre-vingt-quatre personnes meurent.",
+        "Les règles existaient. L'ordonnance de police du 16 mai 1881 soumettait déjà toute construction ou exploitation de théâtre à une déclaration préalable, avec plans, coupes et élévations en triple exemplaire et indication du nombre de places par étage. Elle imposait de séparer les trois parties du théâtre par de gros murs en maçonnerie, des issues distinctes sur l'extérieur pour la salle et les bâtiments d'administration, des escaliers droits pour le public d'au moins 1,50 mètre de large, élargis à chaque révolution en fonction du nombre de personnes, et le stockage des décors hors de l'enceinte du théâtre. Son article 16 disposait que tous les décors seraient rendus ininflammables par une préparation spéciale, essayés avant mise en service devant la Commission des théâtres, puis réessayés tous les six mois au moins, chaque essai étant constaté par l'apposition d'un cachet.",
+        "Devant le conseil municipal, le 7 juin, le colonel du régiment de sapeurs-pompiers attribue l'ampleur du sinistre à l'amoncellement des frises, à l'interdiction de manœuvrer le rideau de fer et à l'ouverture non réglementaire des portes latérales de la scène, qui ont créé des appels d'air. Le sapeur de garde ce soir-là est poursuivi, condamné, puis acquitté en appel. Les gardes théâtre sont supprimés l'année suivante."
+      ],
+      "enseignement": "Le rideau de fer existait, et sa manœuvre était interdite. Les décors devaient être ininflammables et contrôlés tous les six mois. Entre la règle écrite et son emploi réel le soir de la représentation, c'est l'écart qui tue : le premier règlement parisien des théâtres avait déjà posé la déclaration préalable des plans, la séparation de la scène et de la salle, la largeur des escaliers et l'essai périodique des décors.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#salles-de-spectacle",
+      "preuves": [
+        "ordonnance-police-1881-theatres",
+        "ordonnance-police-1888-theatres",
+        "ordonnance-police-1898-theatres"
+      ]
+    },
+    {
+      "id": "bazar-de-la-charite",
+      "titre": "L'incendie du Bazar de la Charité (1897)",
+      "date": "4 mai 1897",
+      "periode": "1810-1941",
+      "etablissement": "Bazar de la Charité",
+      "sousTitre": "Une rue reconstituée en bois et en toiles peintes, une lampe de projection à l'éther, et deux issues pour plus de mille personnes",
+      "lieu": "Paris (8e arrondissement)",
+      "adresse": "Rue Jean-Goujon, 75008 Paris",
+      "bilanHumain": "129 morts et 300 blessés",
+      "activite": "Vente de bienfaisance sous une installation provisoire, avec une salle de projection",
+      "circonstances": "Le 4 mai 1897, une vente de bienfaisance occupe une installation provisoire de la rue Jean-Goujon, où une rue du Moyen Âge a été reconstituée en bois, tissus et toiles bitumées sous une verrière. Une salle de projection y est aménagée. À 16 h 20, alors que plus de mille personnes sont présentes, les vapeurs d'éther qui alimentent la lumière de l'appareil s'embrasent. Le feu gagne les décors et la couverture. Le public se presse devant deux issues étroites donnant sur la rue.",
+      "suites": "L'ordonnance de police du 1er septembre 1897, prise quatre mois après le sinistre, impose aux établissements et théâtres forains recevant du public un éclairage au gaz canalisé, à l'huile végétale ou à l'électricité, et des sorties, escaliers et dégagements largement suffisants. L'ordonnance du 1er septembre 1898 consacre ensuite des dispositions spéciales aux cinématographes : son article 108 interdit les lampes à carburateur oxyéthérique, impose une cabine en matériaux incombustibles placée du côté opposé à la sortie du public, son aération par une ouverture garnie d'une toile métallique, une cuve d'eau additionnée d'alun entre le condensateur et la pellicule, la réception des pellicules dans une caisse métallique, la présence de deux opérateurs, deux seaux d'eau à portée de main et l'interdiction de fumer dans la cabine.",
+      "recit": [
+        "Le 4 mai 1897, le Bazar de la Charité occupe une installation provisoire de la rue Jean-Goujon : une rue du Moyen Âge reconstituée en bois, en tissus et en toiles bitumées, couverte d'une verrière, avec une salle de projection aménagée à l'intérieur. À 16 h 20, plus de mille personnes sont présentes lorsque les vapeurs d'éther qui alimentent la lumière de l'appareil de projection s'embrasent. Le feu gagne les décors puis la couverture, dont les lambeaux enflammés tombent sur le public. Celui-ci se presse devant deux issues étroites donnant sur la rue. Des riverains descellent les barreaux d'une fenêtre voisine pour évacuer une partie des victimes. Cent vingt-neuf personnes meurent et trois cents sont blessées.",
+        "Quatre mois plus tard, l'ordonnance de police du 1er septembre 1897 impose aux établissements et théâtres forains recevant du public un éclairage au gaz canalisé, à l'huile végétale ou à l'électricité, et des sorties, escaliers et dégagements largement suffisants. L'année suivante, l'ordonnance du 1er septembre 1898 consacre pour la première fois des dispositions spéciales aux cinématographes. Son article 108 écrit, en neuf points, ce que doit être une projection : pas de lampe à carburateur oxyéthérique, une cabine en matériaux incombustibles placée du côté opposé à la sortie du public et ventilée par une toile métallique, une cuve d'eau additionnée d'alun entre le condensateur et la pellicule, les pellicules recueillies dans une caisse métallique, deux opérateurs dont l'un ne déroule qu'une bande de celluloïd à la fois, deux seaux d'eau à portée de main, et l'interdiction de fumer."
+      ],
+      "enseignement": "Une structure provisoire, des décors combustibles, une source de lumière à flamme nue et deux issues pour plus de mille personnes. Dix-huit mois plus tard, la préfecture de police écrit le premier règlement français de la projection : la cabine incombustible, la pellicule enfermée, l'eau à portée de main.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#bazar-de-la-charite",
+      "preuves": [
+        "ordonnance-police-1897",
+        "ordonnance-police-1898-theatres"
+      ]
+    },
+    {
+      "id": "metro-couronnes-1903",
+      "titre": "L'incendie du métropolitain à Couronnes (1903)",
+      "date": "10 août 1903",
+      "periode": "1810-1941",
+      "etablissement": "Station Couronnes",
+      "sousTitre": "84 morts en quelques minutes, à la station voisine d'un train dont la motrice brûlait depuis trois quarts d'heure",
+      "lieu": "Paris, station Couronnes",
+      "adresse": "Station Couronnes, ligne n° 2 Nord, entrée rue des Couronnes",
+      "bilanHumain": "84 morts, dont 77 à Couronnes et 7 à Ménilmontant, par intoxication à l'oxyde de carbone. Aucun agent de la Compagnie.",
+      "activite": "Chemin de fer métropolitain, transport de voyageurs en souterrain",
+      "circonstances": "Un court-circuit sur l'installation d'alimentation de la motrice M 202, en tête de la rame 43, avec un départ de feu au niveau du moteur avant. Le feu est éteint plusieurs fois, mais le train repart chaque fois sans que les frotteurs soient relevés du rail de courant. À l'entrée de Ménilmontant, l'incendie se déclare. Les fumées se propagent par le souterrain jusqu'à la station Couronnes.",
+      "suites": "Le 19 août 1903, le Préfet de police notifie trois séries d'injonctions à la Compagnie. La première est d'exécution immédiate : un inspecteur en permanence par section de cinq stations, une consigne pour le mécanicien en cas de court-circuit, l'éclairage de la sortie des quais. Une commission technique d'électricité est instituée par arrêté du 8 septembre. Trois autres commissions travaillent en parallèle sur les accès des stations, le matériel roulant et l'aération des souterrains. Le rapport de Félix Roussel est remis au Conseil municipal le 1er mars 1904. Le 9 mars, le Préfet de police transmet à la Compagnie un projet d'arrêté sur toute la partie électrique de l'exploitation.",
+      "recit": [
+        "Le 10 août 1903, la rame 43 quitte la Porte Dauphine à 18 h 35 pour la Nation. Huit voitures, une motrice en tête, une en queue. À 18 h 53, en gare de Barbès, de la fumée sort sous la motrice avant. Les voyageurs descendent. Le mécanicien éteint le feu à l'extincteur, aidé par deux ouvriers de la voie. Le train repart à vide à 19 h 05.",
+        "Il repart avec ses frotteurs toujours en contact avec le rail de courant. L'inspecteur du contrôle l'écrira sans détour : relever ces frotteurs était le seul moyen certain d'empêcher un nouveau court-circuit, la manœuvre est des plus simples, elle demande moins de cinq minutes. Elle ne sera jamais faite.",
+        "Le feu reprend en marche. On l'éteint. Il reprend encore. Au Combat, on coupe le courant à 19 h 18 et le feu s'arrête. On rétablit le courant à 19 h 23, il repart aussitôt. La rame est évacuée, un train de secours vient la refouler vers Ménilmontant. Les deux repartent à 19 h 32.",
+        "À vingt-cinq mètres de la station, vers 19 h 37, nouveau court-circuit. Cette fois l'incendie se déclare et gagne les deux rames. La motrice s'arrête juste à hauteur des boîtes de coupure de l'éclairage, à l'entrée de Ménilmontant. Le feu les atteint, puis les câbles d'alimentation. Les plombs fondent dans les sous-stations de l'Étoile et du Père-Lachaise. Vers 19 h 45, la lumière s'éteint entre Ménilmontant et la Porte Dauphine.",
+        "À la station voisine, Couronnes, la rame 48 est à quai, pleine de voyageurs. Les fumées s'y propagent par le souterrain. Les agents ont demandé l'évacuation, mais sans urgence : habitués aux courts-circuits, ils croient à une simple interruption de service. Les voyageurs réclament et couvrent la voix des employés. Quand la fumée noire masque les lampes de la voûte, il est trop tard pour sortir. Soixante-dix-sept personnes meurent à Couronnes, sept à Ménilmontant. Tout a duré sept ou huit minutes."
+      ],
+      "enseignement": "La commission d'enquête n'a pas mis l'éclairage en tête. Ce qu'elle retient d'abord, c'est qu'une motrice qui brûlait a été conduite dans le souterrain sans qu'on lui coupe le courant, et que les voyageurs sont restés sur le quai faute de comprendre ce qui arrivait. Les mesures prescrites l'année suivante commencent par là : sectionner le rail de courant et pouvoir le couper depuis la voie.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#metro-couronnes-1903",
+      "preuves": [
+        "roussel-1904-metropolitain"
+      ]
+    },
+    {
+      "id": "printemps-1921",
+      "titre": "L'incendie des Grands Magasins du Printemps (1921)",
+      "date": "28 septembre 1921",
+      "periode": "1810-1941",
+      "etablissement": "Grands Magasins du Printemps",
+      "sousTitre": "Un grand magasin en étages-galeries, sans cloison coupe-feu ni charpente protégée",
+      "lieu": "Paris (9e arrondissement)",
+      "adresse": "Boulevard Haussmann, 75009 Paris",
+      "bilanHumain": "Plusieurs sapeurs-pompiers et sauveteurs blessés ou incommodés",
+      "activite": "Grand magasin de vente à structure métallique",
+      "circonstances": "Le 28 septembre 1921 au matin, avant l'ouverture au public, un incendie se déclare dans les Nouveaux Magasins du Printemps, boulevard Haussmann. Le rapport technique établi après le sinistre retient l'agglomération de matières combustibles, un aménagement en étages-galeries sans aucune cloison coupe-feu et l'absence d'enrobage de la charpente métallique.",
+      "suites": "La circulaire du ministre de l'Intérieur du 12 mai 1926 transmet aux préfets un projet d'arrêté-type destiné à guider les municipalités. Son titre sur les grands magasins soumet toute construction à une demande d'autorisation au maire, accompagnée de plans détaillés des coupes et élévations (articles 213 et 214), impose une déclaration pour l'exploitation d'un magasin existant de plus de 1 500 mètres carrés (article 215), fait statuer le maire après avis d'une commission consultative (article 216), interdit de commencer les travaux avant l'approbation des plans (article 217), impose une visite de réception avant toute ouverture au public, l'autorisation étant donnée après avis conforme de la commission (article 218), et prévoit la visite de chaque établissement au moins deux fois par an, dont l'une avec épreuves des moyens de secours (article 219). Ses articles 220 et 221 veulent des magasins parfaitement clos sur les locaux environnants et entièrement construits en matériaux incombustibles, et la protection de toutes les pièces de charpente, en fer ou en bois, par un enduit de ciment ou de plâtre armé d'au moins cinq centimètres ou par des briques.",
+      "recit": [
+        "Le 28 septembre 1921, le feu prend dans le quadrilatère des Nouveaux Magasins du Printemps, entre les rues du Havre, de Provence, Charras et le boulevard Haussmann. L'alerte est donnée par l'avertisseur privé du magasin et les secours des casernes Blanche, Boursault et Rousseau convergent. Les premières équipes trouvent un rideau de feu qui court du troisième au sixième étage. Onze grosses lances sont établies, mais les arbres et le mobilier urbain empêchent d'approcher les grandes échelles. À 8 h 45, tous les étages sont embrasés : le commandement ordonne le repli général et dispose douze grandes échelles et trente grosses lances sur les quatre faces, pour protéger les environs. La toiture et les planchers s'effondrent dans la matinée ; les façades subsistent.",
+        "Le rapport technique établi après l'intervention relève que le feu aurait pu être maîtrisé à son début si le service chargé de la surveillance du magasin avait fait plus tôt appel aux sapeurs-pompiers. Il retient, pour expliquer la vitesse du développement, l'agglomération de matières combustibles, des étages-galeries sans aucune cloison coupe-feu et une charpente métallique sans enrobage."
+      ],
+      "enseignement": "Le rapport technique de 1921 relève une charpente métallique non protégée et des galeries sans cloison coupe-feu. Cinq ans plus tard, le modèle d'arrêté proposé aux maires prescrit précisément l'inverse : magasins clos et incombustibles, charpentes enrobées, visite de réception avant ouverture et deux visites par an.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#printemps-1921",
+      "preuves": [
+        "circulaire-1926"
+      ]
+    },
+    {
+      "id": "marseille-1938",
+      "titre": "L'incendie des Nouvelles Galeries à Marseille (1938)",
+      "date": "28 octobre 1938",
+      "periode": "1810-1941",
+      "etablissement": "Nouvelles Galeries, Marseille",
+      "sousTitre": "Une trémie centrale qui joue comme une cheminée, un appel aux secours tardif, et la naissance du bataillon de marins-pompiers",
+      "lieu": "Marseille (1er arrondissement)",
+      "adresse": "La Canebière, 13001 Marseille",
+      "bilanHumain": "73 morts selon le Conseil d'État, 75 selon le bataillon de marins-pompiers",
+      "activite": "Grand magasin de 3 500 m² sur quatre niveaux dont un sous-sol, ouvert au public pendant des travaux",
+      "circonstances": "Vers 14 h 20, un ouvrier constate une fumerolle au premier étage, mais le public continue d'entrer. Le feu est reconnu à 14 h 30 et le premier appel aux secours part à 14 h 37. La trémie centrale et ses escaliers à double révolution conduisent le feu jusqu'à la toiture. Les occupants des étages et du sous-sol ne peuvent plus sortir : le seul vrai dégagement est pris par le feu.",
+      "suites": "Le décret-loi du 12 novembre 1938, signé quinze jours après, crée une inspection technique permanente des corps de sapeurs-pompiers, confiée à des officiers du régiment de Paris, et permet de réorganiser par décret un corps communal, jusqu'à lui donner une organisation militaire inspirée de celui de Paris. Il ouvre aussi la voie aux décrets prescrivant les mesures de sécurité et les moyens d'évacuation à imposer aux propriétaires, constructeurs et exploitants d'établissements ouverts au public. Le 29 juillet 1939, un décret-loi crée le bataillon des marins-pompiers de Marseille. Le décret du 7 février 1941 établit ensuite le premier règlement national.",
+      "recit": [
+        "Le 28 octobre 1938, les Nouvelles Galeries occupent sur la Canebière un grand magasin de 3 500 m² sur quatre niveaux dont un sous-sol, bâti sur une structure métallique avec des planchers en bois. Une grosse trémie centrale, bordée d'escaliers à double révolution, relie tous les niveaux. Des travaux sont en cours. Vers 14 h 20, un ouvrier constate une fumerolle au premier étage, mais le public continue d'entrer. Le feu est reconnu à 14 h 30 et le premier appel aux secours ne part qu'à 14 h 37. Par la trémie, il gagne tous les étages jusqu'à la toiture : à l'arrivée des secours, le bâtiment est presque entièrement embrasé. Les occupants des étages et du sous-sol ne peuvent plus sortir, le seul vrai dégagement étant pris par le feu.",
+        "Les sapeurs-pompiers municipaux interviennent avec un matériel datant de 1913 et une seule échelle pour toute la ville ; l'eau vient de réservoirs au débit limité. Le commandant du corps est absent, son second est blessé par l'écroulement de la façade, et le commandement passe de main en main. Soixante-treize personnes meurent selon le Conseil d'État, soixante-quinze selon le bataillon de marins-pompiers. En 1952, le Conseil d'État juge la destruction de l'immeuble inévitable. Il retient en revanche que les dommages corporels ont été aggravés par les fautes lourdes de la ville : personnel et matériel gravement insuffisants, absence de direction et de coordination des manœuvres. Les personnes réfugiées côté rue Thubaneau auraient pu être sauvées. La ville supporte les deux tiers de la responsabilité.",
+        "Le rapport qui accompagne le décret-loi du 12 novembre 1938 constate que les moyens des corps de sapeurs-pompiers ne correspondent pas toujours aux nécessités de la défense, « une tragique expérience vient de le démontrer ». Le texte crée une inspection technique permanente confiée à des officiers du régiment de Paris, permet de réorganiser par décret un corps communal jusqu'à lui donner une organisation militaire, et ouvre la voie aux décrets fixant les mesures de sécurité et les moyens d'évacuation à imposer aux propriétaires, constructeurs et exploitants. Le 29 juillet 1939, un décret-loi crée le bataillon des marins-pompiers de Marseille. Le décret du 7 février 1941, pris sur ce fondement, établit le premier règlement national."
+      ],
+      "enseignement": "Le décret de 1938 ne crée pas de règles de construction : il s'attaque d'abord à qui inspecte, qui commande et qui peut imposer. Il faudra le décret de 1941 pour écrire les règles elles-mêmes.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#marseille-1938",
+      "preuves": [
+        "marseille-decret-loi-1938",
+        "senat-2013-bmpm",
+        "ons-2004-nouvelles-galeries",
+        "ce-1952-nouvelles-galeries",
+        "decret-1941"
+      ]
+    },
+    {
+      "id": "select-et-reglements",
+      "titre": "L'incendie du cinéma Le Select à Rueil-Malmaison (1947)",
+      "date": "30 août 1947",
+      "periode": "1941-1973",
+      "etablissement": "Cinéma Le Select",
+      "sousTitre": "89 morts pendant une séance de cinéma. Le sinistre est rattaché au premier texte français sur la classification des matériaux au feu.",
+      "lieu": "Rueil-Malmaison (Hauts-de-Seine)",
+      "adresse": "42 rue de Marly (actuelle rue Jean-Le Coz), 92500 Rueil-Malmaison",
+      "bilanHumain": "89 morts",
+      "activite": "Cinéma de quartier",
+      "circonstances": "Le 30 août 1947 au soir, un incendie se déclare pendant la projection. La salle mesure environ 23,80 mètres de long sur 7 de large et 18 de haut, pour 600 places, mais les spectateurs sont en surnombre. Un seul escalier dessert les deux balcons superposés, une seule sortie de secours reste utilisable, une autre est verrouillée et l'entrée d'un escalier est condamnée par un encoffrement.",
+      "suites": "Le rapport préliminaire de la commission d'enquête conclut que la catastrophe était évitable si toutes les mesures de sécurité avaient été prises à temps. Il retient deux causes matérielles, des surcharges dans les cintres et des ruptures de câbles métalliques, et trois causes humaines : l'insuffisance des contrôles, la méconnaissance des règles de sécurité et les retards dans les travaux indispensables. L'exploitant est écroué et inculpé d'homicides et blessures involontaires ; des travaux de consolidation de la charpente avaient été différés malgré les avertissements. Le rapport des inspections générales de l'administration et des affaires sociales rattache au sinistre le décret du 15 juillet 1949, qui fixe les conditions d'essais et la classification des matériaux de construction par rapport à la protection contre l'incendie des locaux recevant du public. Le décret du 13 août 1954 vise ce texte de 1949, prend en compte la panique, répartit les établissements par type et les classe en quatre catégories d'après l'effectif, avec des sanctions pénales. Le rapport 2004 de l'Observatoire national de la sécurité y rattache également Le Select.",
+      "recit": [
+        "Le samedi 30 août 1947, la salle du Select est comble : 600 places, et des spectateurs en surnombre. L'incendie se déclare pendant la projection et se propage aux aménagements intérieurs. Les spectateurs se portent vers des dégagements étroits. Un seul escalier dessert les deux balcons superposés. Une seule sortie de secours reste utilisable : une autre est verrouillée, et l'entrée d'un escalier est condamnée par un encoffrement. Quatre-vingt-neuf personnes meurent.",
+        "La commission d'enquête conclut que la catastrophe était évitable si toutes les mesures de sécurité avaient été prises à temps. Elle retient des surcharges dans les cintres et des ruptures de câbles métalliques, mais aussi l'insuffisance des contrôles, la méconnaissance des règles de sécurité et les retards dans les travaux indispensables : des travaux de consolidation de la charpente avaient été différés malgré les avertissements. L'exploitant est écroué et inculpé d'homicides et blessures involontaires.",
+        "Le sinistre ne reste pas sans suite technique. Le décret du 15 juillet 1949 fixe les conditions d'essais et la classification des matériaux de construction au regard de l'incendie dans les locaux recevant du public. Cinq ans plus tard, le décret du 13 août 1954 cite ce texte de 1949 dans ses visas : il succède au cadre de 1941, prend en compte la panique et classe les établissements par type et par catégorie. Il ne répond pas au seul Select, mais le sinistre figure parmi les références que l'administration associe à cette réforme."
+      ],
+      "enseignement": "Le sinistre ouvre la voie au classement des matériaux au feu, avec le décret de 1949 sur les conditions d'essais et la classification des matériaux de construction. Sur le bâtiment, il rappelle qu'une porte n'est un dégagement que si le cheminement reste praticable jusqu'à la voie publique.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#select-et-reglements",
+      "preuves": [
+        "iga-igas-2014-erp",
+        "decret-1954",
+        "arrete-1954",
+        "ons-2004-sinistres-textes"
+      ]
+    },
+    {
+      "id": "saint-laurent-du-pont",
+      "titre": "L'incendie du dancing Le Cinq-Sept (1970)",
+      "date": "1er novembre 1970",
+      "periode": "1941-1973",
+      "etablissement": "Dancing Le Cinq-Sept",
+      "sousTitre": "146 morts dans un établissement ouvert au public sans certificat de conformité ni autorisation d'ouverture",
+      "lieu": "Saint-Laurent-du-Pont (Isère)",
+      "adresse": "Lieu-dit Les Tourbières, route nationale 520, 38380 Saint-Laurent-du-Pont",
+      "bilanHumain": "146 morts, en très grande majorité des jeunes",
+      "activite": "Snack-bar dancing : salle de danse, bar et restaurant",
+      "circonstances": "Le 1er novembre 1970, vers 1 h 35, un incendie se déclare dans une loge aménagée en surplomb du bar, sur la piste de danse. L'établissement n'a pas le téléphone : un associé va donner l'alerte en voiture au bourg, à un kilomètre, à 1 h 45. Les secours arrivent à 1 h 55. Deux portes de secours métalliques doivent être descellées et une porte en bois fermée à clé doit être ouverte. Les corps sont découverts près des deux tourniquets de la porte d'entrée et de la petite porte.",
+      "suites": "Le maire et le secrétaire général de la préfecture sont suspendus pendant l'enquête. Un inspecteur général de l'administration est chargé d'un rapport sur les responsabilités administratives, et la police et la gendarmerie reçoivent la mission de vérifier que les exploitants détiennent le certificat de conformité et l'autorisation d'ouverture. Le 14 mars 1974, la Cour de cassation confirme la condamnation des exploitants, du fournisseur des matériaux de décoration et du maire. Décret n° 73-1007 du 31 octobre 1973, publié au Journal officiel du 4 novembre 1973 : la 5e catégorie est créée par son article 14, qui la définit par l'effectif, et par son article 19, qui l'inscrit dans la liste des catégories. Le décret impose aussi l'étude des dossiers avant permis de construire pour le 1er groupe, la présence d'officiers de sapeurs-pompiers titulaires du brevet de prévention en sous-commission départementale et en commission d'arrondissement, et aggrave les sanctions pénales. L'arrêté du 31 octobre 1973, publié au même Journal officiel, complète le règlement du 23 mars 1965 par un titre VI dédié à ces établissements. L'arrêté du 23 mars 1965 dans sa version d'origine n'en comportait aucune trace.",
+      "recit": [
+        "Le permis de construire est délivré le 7 novembre 1969, après un avis favorable de la commission départementale de sécurité rendu le 30 juin, sous réserve de prescriptions. Un rapport de gendarmerie de septembre décrit pourtant la construction en voie d'achèvement : les travaux avaient commencé avant le permis. Aucune déclaration d'achèvement n'est déposée, donc aucun certificat de conformité n'est instruit, et la commission de sécurité n'est jamais mise en mesure de comparer les plans et l'exécution. L'établissement ouvre en avril 1970 sans que le gérant demande l'autorisation d'ouverture au maire.",
+        "Le bâtiment achevé s'écarte du projet autorisé : des cloisons ont changé de place, une porte extérieure a été supprimée, la chaufferie a été déplacée, et des loges et galeries ont été aménagées en surplomb de la piste de danse, desservies par un escalier en colimaçon absent du permis. Les revêtements intérieurs ne figuraient pas davantage au dossier. Deux tourniquets de grande hauteur, eux aussi absents du plan, avaient été installés devant une porte de la façade principale. Cinq jours après l'incendie, le ministre de l'intérieur déclare devant l'Assemblée nationale que, si le certificat de conformité avait été demandé, il n'aurait pas pu être accordé dans l'état où se trouvait le bâtiment.",
+        "Cent quarante-six personnes meurent. Trois experts sont désignés pour déterminer le rôle du polyuréthane employé dans le décor."
+      ],
+      "enseignement": "Le dossier ne montre pas une règle manquante, mais une chaîne rompue : un projet autorisé sous prescriptions, une exécution jamais confrontée à ce projet, aucune visite de conformité, et une ouverture au public sans l'autorisation du maire. Le décret du 31 octobre 1973 crée la 5e catégorie et l'arrêté du même jour lui consacre un titre VI.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#saint-laurent-du-pont",
+      "preuves": [
+        "an-1970-saint-laurent",
+        "ons-2004-sinistres-textes",
+        "decret-1973-cch",
+        "arrete-1965"
+      ]
+    },
+    {
+      "id": "pailleron-1973",
+      "titre": "L'incendie du collège Édouard-Pailleron (1973)",
+      "date": "6 février 1973",
+      "periode": "1941-1973",
+      "etablissement": "Collège Édouard-Pailleron",
+      "sousTitre": "Un collège construit selon un procédé industrialisé, répété dans 56 établissements. Trente minutes après la mise à feu, sa charpente métallique commence à s'effondrer.",
+      "lieu": "Paris (19e arrondissement)",
+      "adresse": "33 rue Édouard-Pailleron, 75019 Paris",
+      "bilanHumain": "20 morts, 16 enfants, 3 professeurs du conservatoire et la concierge",
+      "activite": "Collège d'enseignement secondaire, occupé le soir par le conservatoire municipal du 19e arrondissement",
+      "circonstances": "Vers 19 h 30, un feu est allumé volontairement dans une salle du premier étage. Il se propage par les cloisons en panneaux de particules et par les vides entre faux plafonds et planchers, où des canalisations de gaz cèdent. L'angle nord-est s'effondre vers 20 heures, la partie centrale à 20 h 10.",
+      "suites": "Deux élèves, auteurs de la mise à feu, sont condamnés. En 1979, trois hauts fonctionnaires, l'entrepreneur et l'architecte sont condamnés à leur tour. En février et mars 1973, l'Éducation nationale diffuse des circulaires sur la prévention de l'incendie dans les établissements d'enseignement, y compris lorsqu'ils sont occupés en dehors des horaires scolaires. La circulaire du 3 août 1973 organise des travaux de sécurité sur avis des commissions départementales. Le décret du 31 octobre 1973, dont la refonte était engagée avant le sinistre, soumet les établissements publics au régime normal des commissions de sécurité. Il impose aussi l'avis de la commission centrale de sécurité sur les procédés de construction destinés à être répétés, et prévoit un responsable désigné de la sécurité, précisé pour l'Éducation par les arrêtés du 14 mai 1975.",
+      "recit": [
+        "Le 6 février 1973 au soir, cinquante-deux élèves du conservatoire municipal suivent des cours dans quatre salles du deuxième étage du collège de la rue Édouard-Pailleron. Vers 19 h 30, un feu est allumé dans une corbeille à papier au premier étage. L'alerte est donnée vers 19 h 45 et la lumière s'éteint à 19 h 46. Les fumées envahissent un escalier. Une partie des enfants est évacuée par les fenêtres, sur des échelles posées par des voisins, les autres par un second escalier. Seize enfants, trois professeurs et la concierge meurent.",
+        "Le collège fait partie des 56 établissements construits selon le procédé « Constructions modulaires », adaptation française du procédé britannique C.L.A.S.P. : charpente métallique légère, cloisons en panneaux de particules, faux plafonds sous les planchers. L'expert désigné par la mission du Sénat conclut que le feu s'est répandu le long des cloisons et par les vides entre faux plafonds et planchers, où les canalisations de gaz ont alimenté l'incendie. Il conclut aussi que les poteaux, pas ou mal protégés, se sont déformés jusqu'à l'effondrement. Les recoupements prévus dans ces vides n'avaient pas été réalisés.",
+        "La mission du Sénat relève qu'un même processus a permis de construire plusieurs établissements non conformes aux règlements de sécurité, faute d'examen systématique des procédés avant leur agrément. Le service constructeur et l'architecte déclarent n'avoir jamais reçu les recommandations formulées par la sous-commission de sécurité le 2 mars 1972 sur ce collège."
+      ],
+      "enseignement": "La mission du Sénat constate que, la charpente ayant commencé à céder trente minutes après la mise à feu, le procédé tel qu'il a été réalisé n'assurait pas une stabilité au feu suffisante. Elle en tire qu'un bâtiment doit être conçu en tenant compte de ses conditions réelles d'exécution et d'exploitation : alarme, coupure automatique du gaz, présence d'un responsable de la sécurité.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#pailleron-1973",
+      "preuves": [
+        "pailleron-1973",
+        "pailleron-1973-annexes",
+        "decret-1973-cch"
+      ]
+    },
+    {
+      "id": "rochechouart-1976",
+      "titre": "L'incendie de l'hôtel d'Amérique (1976)",
+      "date": "11 août 1976",
+      "periode": "1973-1990",
+      "etablissement": "Hôtel d'Amérique",
+      "sousTitre": "Un hôtel meublé détruit en quelques minutes, une nuit d'août 1976. Huit ans plus tard, la Cour de cassation rappelle ce que l'hôtelier devait à ses clients.",
+      "lieu": "Paris (9e arrondissement)",
+      "adresse": "Hôtel d'Amérique, 6 rue de Rochechouart, 75009 Paris",
+      "bilanHumain": "11 morts et 9 blessés",
+      "activite": "Hôtel meublé de 27 chambres, occupées par une quarantaine de personnes",
+      "circonstances": "Le sinistre prend naissance vers 1 h 50 dans le bureau de réception, au rez-de-chaussée. En quelques minutes, il gagne les étages supérieurs et détruit tout l'immeuble.",
+      "suites": "Une cliente et sa fille, gravement brûlées dans une chambre du premier étage, obtiennent réparation devant la cour d'appel de Paris le 13 juillet 1983. La Cour de cassation rejette les pourvois de l'exploitant et de son assureur le 29 janvier 1985. Le 4 novembre 1976, trois mois après le sinistre, un arrêté remplace le titre VI du règlement de sécurité et fait apparaître les articles PE. Ce titre existait depuis le 31 octobre 1973 : ce jour-là, un décret créait la 5e catégorie et un arrêté lui consacrait ce titre. La recommandation européenne 86/666/CEE du 22 décembre 1986 porte sur la sécurité des hôtels existants, et l'arrêté du 22 juin 1990 distingue les hôtels à construire ou à modifier de ceux déjà en exploitation, à mettre à niveau en cinq ans.",
+      "recit": [
+        "Le 11 août 1976, vers 1 h 50, un incendie se déclare dans le bureau de réception de l'hôtel d'Amérique, au 6 rue de Rochechouart. Il gagne le rez-de-chaussée, où se trouvent des boutiques et la loge du gardien, puis la cage d'escalier, qu'il rend infranchissable. Les effectifs de sept casernes sont sur place à 2 heures. Une partie des chambres donne sur une cour intérieure où la grande échelle ne peut pas être mise en œuvre, et les sauveteurs n'atteignent l'arrière du dernier étage qu'une heure après le début du sinistre. Deux personnes se tuent en sautant par une fenêtre ; les autres victimes meurent asphyxiées, pour la plupart bloquées à l'arrière du dernier étage.",
+        "Le sinistre n'est pas isolé : c'est le quatrième incendie mortel dans un hôtel parisien depuis le début de l'été. Le 18 juin, deux touristes néerlandais meurent à l'angle de la rue Broca et de la rue Claude-Bernard. Le 30 juillet, cinq personnes sont tuées et quatorze blessées au 10 rue des Petites-Écuries. Le 1er août, un client se tue en sautant d'une fenêtre au 44 rue Pajol. L'arrêté du 4 novembre 1976 paraît trois mois après.",
+        "Une cliente et sa fille, gravement brûlées dans leur chambre du premier étage, demandent réparation à l'exploitant. Parmi les manquements reprochés à l'hôtel figurent une installation électrique en mauvais état, une sortie de secours inutilisable et l'absence de veilleur de nuit permanent ; la défaillance électrique reste une hypothèse. L'exploitant et son assureur répondent que l'origine de l'incendie n'a pu être déterminée et qu'aucun manquement au règlement n'a été relevé. Les juges fondent leur décision sur la propagation. Une canalisation de gaz en plomb, placée en amont du compteur, a fondu et le gaz de ville s'est déversé dans le bâtiment. Les matériaux d'aménagement intérieur et de décoration étaient particulièrement combustibles. Né au rez-de-chaussée, où ses conséquences auraient pu rester limitées, l'incendie s'est rapidement propagé aux étages en raison de ces deux éléments."
+      ],
+      "enseignement": "L'origine de l'incendie n'a pu être déterminée, et l'exploitant a tout de même été tenu pour responsable. La Cour de cassation l'a posé en 1985 : l'absence de réglementation particulière ne dispense pas l'hôtelier des règles de prudence et de surveillance qu'exige la sécurité de ses clients. Et un manquement compte non seulement quand il provoque le dommage, mais aussi quand il en aggrave les conséquences.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#rochechouart-1976",
+      "preuves": [
+        "cassation-1985-hotel-amerique",
+        "arrete-1976-titre-vi",
+        "reco-europeenne-1986",
+        "arrete-1990-5e-cat"
+      ]
+    },
+    {
+      "id": "barbotan-1991",
+      "titre": "L'incendie des thermes de Barbotan (1991)",
+      "date": "27 juin 1991",
+      "periode": "1990-2010",
+      "etablissement": "Thermes de Barbotan",
+      "sousTitre": "Des travaux par points chauds sur le toit d'un établissement thermal ouvert au public. Huit ans plus tard, la Cour de cassation confirme la condamnation du maire, qui n'avait pas provoqué la visite de la commission de sécurité.",
+      "lieu": "Cazaubon (Gers)",
+      "adresse": "Thermes de Barbotan, 32150 Cazaubon",
+      "bilanHumain": "21 morts, 20 curistes et une employée",
+      "activite": "Établissement thermal, soins et cures",
+      "circonstances": "Travaux par points chauds sur la toiture-terrasse, pour en refaire l'étanchéité au bitume. Du bitume liquide en feu s'écoule à l'intérieur du bâtiment par un orifice percé dans la dalle et tombe sur une cloison provisoire d'isolation en polystyrène, qui s'enflamme.",
+      "suites": "Une information judiciaire pour homicides et blessures involontaires est ouverte dès le lendemain. Le 29 janvier 1998, la cour d'appel de Toulouse condamne notamment le secrétaire général de l'établissement et le maire de Cazaubon ; les préfets du Gers sont définitivement relaxés. La Cour de cassation rejette les pourvois le 29 juin 1999. Le décret du 8 mars 1995 réorganise les commissions de sécurité. Les inspections générales de l'administration et des affaires sociales le rattachent, en 2014, aux sinistres de Barbotan, de Furiani et de Bruz. La loi du 13 mai 1996 précise les conditions de la responsabilité pénale pour imprudence ; c'est au regard de ce texte que la responsabilité du maire est appréciée.",
+      "recit": [
+        "Le 27 juin 1991, les thermes de Barbotan, à Cazaubon, accueillent des curistes pendant que des travaux par points chauds sont menés sur la toiture-terrasse, pour en refaire l'étanchéité au bitume. Du bitume liquide en feu s'écoule par un orifice percé dans la dalle et tombe à l'intérieur, sur une cloison provisoire d'isolation en polystyrène. La cloison s'enflamme. L'incendie gagne une cloison voisine, puis le faux plafond. Les fumées se propagent dans les locaux par l'espace situé entre le plancher et le faux plafond. Vingt curistes et une employée meurent, asphyxiés par le monoxyde de carbone.",
+        "La terrasse n'était plus étanche : il pleuvait dans la salle de repos et dans le couloir. L'établissement a été rénové. Ses nouvelles installations, dont les deux piscines où s'est produit le sinistre, ont été exploitées au fur et à mesure des travaux, sans autorisation d'ouverture ni visite de réception de la commission de sécurité. La commission n'est pas venue depuis cinq ans, alors qu'une visite annuelle était obligatoire. Le faux plafond et les cloisons ne répondent pas aux exigences de comportement au feu, et l'espace entre le plancher et le faux plafond n'est pas recoupé régulièrement par des matériaux incombustibles. Il n'y a ni désenfumage, ni détection, ni alarme, ni signalisation d'évacuation, ni consignes affichées. Le personnel n'a jamais fait d'exercice d'évacuation. La zone sinistrée n'a aucune issue de secours.",
+        "Ces irrégularités sont la cause de la rapidité de l'incendie, de l'importance des fumées, des très mauvaises conditions de l'alerte et des difficultés d'évacuation de curistes souvent âgés ou à mobilité réduite. Le maire de Cazaubon avait délivré les permis de construire et savait l'établissement exploité sans autorisation, un établissement que la cour d'appel juge au moins de troisième catégorie. Autorité de police des établissements recevant du public, il pouvait provoquer la visite de la commission de sécurité et ordonner la fermeture. Il ne l'a pas fait. Condamné pour homicides involontaires avec le secrétaire général de l'établissement, il n'a pas accompli, jugent les magistrats, les diligences normales qui lui incombaient, et son abstention a contribué à la mort des victimes."
+      ],
+      "enseignement": "Le départ de feu vient d'un chantier. L'ampleur du sinistre tient aux irrégularités de l'établissement, qu'aucune commission n'était venue constater depuis cinq ans. Le maire a été condamné pour ne pas avoir provoqué cette visite alors qu'il en avait le pouvoir.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#barbotan-1991",
+      "preuves": [
+        "cassation-1999-barbotan",
+        "qe-an-1992-barbotan",
+        "decret-1995-260",
+        "iga-igas-2014-erp",
+        "rapport-lazerges-2000"
+      ]
+    },
+    {
+      "id": "furiani-loi-1993",
+      "titre": "L'effondrement de la tribune de Furiani (1992)",
+      "date": "5 mai 1992",
+      "periode": "1990-2010",
+      "etablissement": "Stade de Furiani",
+      "sousTitre": "Une tribune provisoire de 9 000 places, montée en une semaine pour une demi-finale de Coupe de France. Elle s'effondre quelques minutes avant le coup d'envoi, sans qu'aucune autorisation ni attestation de solidité n'ait été délivrée.",
+      "lieu": "Furiani (Haute-Corse)",
+      "adresse": "Stade Armand-Cesari, 20600 Furiani",
+      "bilanHumain": "19 morts et 2 357 blessés",
+      "activite": "Stade de football, demi-finale de Coupe de France SC Bastia - Olympique de Marseille",
+      "circonstances": "La tribune nord de 800 places est démolie dans la nuit du 24 au 25 avril 1992 et remplacée par une tribune métallique provisoire d'environ 9 000 places, montée à partir du 28 avril et achevée le jour du match. Quelques minutes avant le coup d'envoi, sa partie supérieure se désolidarise de la partie basse sur toute sa longueur et s'effondre.",
+      "suites": "La justice condamne pour homicides et blessures involontaires le directeur de l'entreprise qui a monté la tribune, le directeur de l'agence locale de contrôle technique, le directeur de cabinet du préfet, qui présidait la commission de sécurité, et des dirigeants du football ; un dirigeant du club est condamné pour fausse attestation. La Cour de cassation rejette les pourvois le 24 juin 1997. La loi du 13 juillet 1992 crée un chapitre sur la sécurité des équipements et des manifestations sportives, et le décret du 27 mars 1993 organise l'homologation des enceintes sportives. Le décret du 8 mars 1995 réorganise les commissions de sécurité et crée une sous-commission pour l'homologation des enceintes sportives ; les inspections générales de l'administration et des affaires sociales le rattachent, en 2014, aux sinistres de Barbotan, de Furiani et de Bruz. La norme NF P 90-500 sur les tribunes démontables est publiée en juillet 1995. Depuis la loi du 20 octobre 2021, aucun match de football professionnel n'est joué le 5 mai.",
+      "recit": [
+        "Le 23 avril 1992, les dirigeants du Sporting-Club de Bastia apprennent que la demi-finale de la Coupe de France contre l'Olympique de Marseille se jouera le 5 mai au stade de Furiani. Ils confient à une entreprise la construction d'une tribune provisoire d'environ 9 000 places, à la place de la tribune nord qui en comptait 800 : la capacité du stade doit passer de 6 800 à près de 18 000 spectateurs. La démolition a lieu dans la nuit du 24 au 25 avril. Le montage commence le 28 avril et s'achève le jour du match. Aucune autorisation n'a été demandée au maire.",
+        "Le 5 mai, quelques minutes avant le coup d'envoi, la partie supérieure de la tribune se désolidarise de la partie basse sur toute sa longueur et s'effondre. Trois mille cinq cents personnes sont précipitées dans le vide. Les expertises établissent que l'effondrement était inéluctable, en raison d'erreurs de conception et de montage et des contraintes que l'ouvrage devait supporter.",
+        "La tribune constituait l'élément majeur d'un établissement recevant du public, et son édification était soumise au contrôle technique obligatoire, portant sur la solidité de l'ouvrage et la sécurité des personnes. Le contrôleur technique local intervient plusieurs fois sur le chantier, sans qu'aucun contrat écrit définisse sa mission. La commission départementale de sécurité se réunit à plusieurs reprises ; son président, le directeur de cabinet du préfet, n'assiste qu'à une réunion. Elle ne vérifie ni l'existence d'une autorisation d'aménagement, ni celle d'un rapport attestant la stabilité de la tribune, ni celle d'un arrêté d'ouverture du maire, et ne formule aucun avis définitif. Le 5 mai, elle se réunit peu avant l'arrivée du public sans inspecter la tribune, où des ouvriers travaillent encore. Un procès-verbal irrégulier, daté du 29 avril, la présente pourtant comme favorable. Les vérifications qu'elle devait conduire auraient dû aboutir à un avis défavorable."
+      ],
+      "enseignement": "Le contrôleur technique intervenait sans mission écrite, la commission sans rapport de stabilité, les instances du football sur la foi d'un procès-verbal irrégulier. Le décret du 8 mars 1995 écrit la règle en toutes lettres : la commission de sécurité n'a pas compétence en matière de solidité, mais elle ne peut rendre d'avis tant que les contrôles techniques obligatoires n'ont pas été effectués et que leurs conclusions ne lui ont pas été communiquées.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#furiani-loi-1993",
+      "preuves": [
+        "cassation-1997-furiani",
+        "senat-2021-furiani",
+        "loi-1992-652",
+        "decret-1993-711",
+        "decret-1995-260",
+        "iga-igas-2014-erp"
+      ]
+    },
+    {
+      "id": "bruz-1993",
+      "titre": "L'incendie de la clinique de Bruz (1993)",
+      "date": "25 juin 1993",
+      "periode": "1990-2010",
+      "etablissement": "Clinique de Bruz",
+      "sousTitre": "Un incendie de nuit dans une clinique psychiatrique. La commission de sécurité avait rendu un avis favorable, alors que des bâtiments restaient non conformes.",
+      "lieu": "Bruz (Ille-et-Vilaine)",
+      "adresse": "Clinique psychiatrique Saint-François-d'Assise, 35170 Bruz",
+      "bilanHumain": "20 morts, 19 patients et une infirmière",
+      "activite": "Clinique psychiatrique avec hébergement",
+      "circonstances": "Vers 0 h 30, une patiente placée en chambre d'isolement met le feu à ses draps. La chambre donne sur un escalier non encloisonné, et les fumées se propagent par l'escalier et par des circulations non désenfumées.",
+      "suites": "La patiente, jugée irresponsable, bénéficie d'un non-lieu. Le 8 mars 1996, le juge d'instruction renvoie neuf personnes devant le tribunal correctionnel de Rennes pour homicides et blessures par imprudence : l'ancien et l'actuel maire de Bruz, les deux dirigeants du groupe propriétaire de la clinique, deux officiers de sapeurs-pompiers, la directrice administrative, un architecte et un conseiller en maîtrise d'œuvre. Par jugement du 30 septembre 1996, le maire est condamné à 20 000 francs d'amende, le sapeur-pompier rédacteur du procès-verbal de la commission à six mois d'emprisonnement avec sursis et 30 000 francs d'amende. Entre-temps, le décret du 8 mars 1995 a réorganisé les commissions de sécurité ; les inspections générales de l'administration et des affaires sociales le rattachent, en 2014, aux sinistres de Barbotan, de Furiani et de Bruz. Sa circulaire d'application précise qu'il n'a augmenté ni la portée ni le nombre des contrôles.",
+      "recit": [
+        "Dans la nuit du 24 au 25 juin 1993, vers 0 h 30, une patiente placée en chambre d'isolement à la clinique psychiatrique Saint-François-d'Assise, à Bruz, près de Rennes, met le feu à ses draps. La chambre donne directement sur un escalier non encloisonné. Les fumées gagnent les étages par l'escalier et par des circulations sans désenfumage. Vingt personnes meurent, dix-neuf patients et une infirmière.",
+        "La clinique, rachetée fin 1990 par un groupe de cliniques privées, était vétuste : son prix d'achat avait été renégocié en raison de l'importance des travaux à prévoir. Des constructions avaient été édifiées en violation du code de la construction et de l'habitation. Le permis de construire de 1992 prévoyait d'élever d'abord un bâtiment neuf, et de ne mettre en sécurité les bâtiments anciens qu'ensuite. La commission de sécurité n'avait pas visité les locaux depuis neuf ans, et le maire n'avait pas demandé cette visite. Le procès-verbal de la commission ne reprenait pas toutes les prescriptions du précédent, ne mentionnait pas que des bâtiments restaient non conformes, n'abordait pas leur désenfumage et ne mettait pas l'exploitant en demeure d'engager les travaux. La commission a ainsi rendu un avis favorable alors que les conditions de sécurité n'étaient pas réunies."
+      ],
+      "enseignement": "À l'audience, le juge relève que l'absence de désenfumage et d'encloisonnement de la cage d'escalier a joué un rôle déterminant dans l'inhalation des gaz et des fumées par les victimes. Le tribunal reproche aux préventionnistes de ne pas avoir prescrit l'encloisonnement de l'escalier et le désenfumage après la visite de 1984, et de ne pas avoir remis en cause un permis de construire qui repoussait la mise en sécurité des bâtiments anciens après la construction du bâtiment neuf.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#bruz-1993",
+      "preuves": [
+        "prefecture-63-responsabilite-maire",
+        "decret-1995-260",
+        "circulaire-1995-ccdsa",
+        "iga-igas-2014-erp"
+      ]
+    },
+    {
+      "id": "lescheraines-2004",
+      "titre": "L'incendie du centre équestre de Lescheraines (2004)",
+      "date": "5 août 2004",
+      "periode": "1990-2010",
+      "etablissement": "Centre équestre des Bauges",
+      "sousTitre": "Un dortoir sous charpente mitoyen d'un stockage de foin, dans un établissement qu'aucune commission de sécurité n'avait visité",
+      "lieu": "Lescheraines (Savoie, massif des Bauges)",
+      "adresse": "Route de Chez Lovat, 73340 Lescheraines",
+      "bilanHumain": "8 morts (six mineurs, un jeune adulte et une employée du centre) et une blessée grave",
+      "activite": "Centre équestre avec gîte (dortoir de 12 places et une chambre), ERP de 5e catégorie",
+      "circonstances": "Ferme traditionnelle en trois secteurs mitoyens sous un même toit. L'habitation est en pierre. Une structure en bois abrite un stockage de bottes de foin. Un bâtiment mixte pierre et bois accueille, sous charpente, le dortoir et une chambre, desservis par un escalier intérieur et un escalier extérieur. L'origine du feu n'a jamais été déterminée. La mission d'enquête juge les mesures de protection insuffisantes au regard du risque. Le règlement des petits établissements exigeait pourtant un isolement coupe-feu d'une heure des locaux à fort potentiel calorifique (PE 9) et un système de sécurité incendie de catégorie A à détection de fumée (PE 32).",
+      "suites": "Par lettre du 20 août 2004, le ministre de l'intérieur demande aux préfets de rappeler aux détenteurs de foin ou de paille que leur stockage doit être éloigné de tout hébergement ou isolé selon les règles de sécurité incendie, et de faire contrôler tous les petits établissements comportant un hébergement qui n'ont pas été visités depuis plus d'un an. Le décret n° 2004-1141 du 27 octobre 2004, publié au Journal officiel du 28 octobre, soumet les établissements de 5e catégorie disposant de locaux d'hébergement pour le public aux articles R. 123-22 à R. 123-26 du code de la construction et de l'habitation, sur l'examen des projets de construction et de travaux par la commission de sécurité, et aux articles R. 123-43 à R. 123-52, sur l'autorisation d'ouverture et les visites de contrôle, pour l'essentiel à compter du 1er février 2005. L'arrêté du 8 novembre 2004 ajoute les vérifications techniques avant l'ouverture à l'article PE 4 et crée l'article PE 37 : ces établissements sont visités tous les cinq ans par la commission de sécurité, fréquence que le maire ou le préfet peut augmenter par arrêté, après avis de la commission.",
+      "recit": [
+        "Dans la nuit du 4 au 5 août 2004, un incendie détruit le gîte du centre équestre des Bauges, à Lescheraines. Le gîte occupe une ferme traditionnelle en trois secteurs mitoyens sous un même toit : l'habitation des exploitants en pierre, une structure en bois où sont stockées des bottes de foin, et un bâtiment mixte, en pierre au rez-de-chaussée puis en bois, dont le niveau sous charpente abrite un dortoir et une chambre. Six mineurs et un jeune adulte venus en stage équestre meurent, ainsi qu'une employée du centre ; une stagiaire est grièvement blessée. Seules les parties en pierre restent debout. L'origine du feu n'a jamais pu être déterminée.",
+        "La mission d'enquête administrative constate que le centre, établissement recevant du public de 5e catégorie, n'a jamais reçu la visite d'une commission de sécurité. L'hébergement fonctionne depuis 1985 sans permis de construire pour le changement de destination, et le balcon et l'escalier extérieur en bois ont été ajoutés sans autorisation : aucune démarche n'a donc déclenché l'examen du bâtiment. Les services vétérinaires, l'inspection du travail agricole et la jeunesse et les sports sont venus à plusieurs reprises, sans jamais identifier un dortoir mitoyen d'un stockage de foin. La mission juge les mesures de protection insuffisantes au regard de ce risque. Selon elle, rien ne permet de dire que l'incendie était évitable, mais l'application stricte des règles de sécurité aurait probablement pu limiter les conséquences humaines.",
+        "Le 20 août, le ministre de l'intérieur demande aux préfets de faire éloigner ou isoler les stockages de foin et de paille de tout hébergement, et de faire contrôler les petits établissements avec hébergement qui n'ont pas été visités depuis plus d'un an. La mission avait proposé de modifier les articles R. 123-14 et R. 123-45 du code de la construction et de l'habitation. Le 9 septembre, la Commission centrale de sécurité approuve le projet de décret, préparé à la demande du Premier ministre pour éviter le renouvellement d'un tel drame. Le décret du 27 octobre 2004 soumet les petits établissements disposant de locaux d'hébergement pour le public à l'examen des projets par la commission de sécurité, à l'autorisation d'ouverture et aux visites de contrôle. L'arrêté du 8 novembre 2004 crée l'article PE 37 : ces établissements sont visités tous les cinq ans."
+      ],
+      "enseignement": "Le dortoir figurait dans les catalogues de tourisme équestre, mais n'était connu d'aucune commission de sécurité : sans permis ni déclaration, rien ne déclenchait son contrôle. Depuis 2004, un petit établissement qui fait dormir du public est soumis à l'autorisation d'ouverture et à une visite tous les cinq ans.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#lescheraines-2004",
+      "preuves": [
+        "mission-enquete-lescheraines-2004",
+        "lettre-interieur-2004-08-20",
+        "ccs-2004-09-09-locaux-sommeil",
+        "decret-2004-1141",
+        "arrete-2004-11-08-pe37"
+      ]
+    },
+    {
+      "id": "paris-opera-2005",
+      "titre": "L'incendie de l'hôtel Paris-Opéra (2005)",
+      "date": "15 avril 2005",
+      "periode": "1990-2010",
+      "etablissement": "Hôtel Paris-Opéra",
+      "sousTitre": "Un hôtel meublé desservi par un escalier unique, et la réforme des petits hôtels",
+      "lieu": "Paris (9e arrondissement)",
+      "adresse": "Hôtel Paris-Opéra, 76 rue de Provence, 75009 Paris",
+      "bilanHumain": "24 morts dont 11 enfants, et une cinquantaine de blessés",
+      "activite": "Hôtel meublé de six niveaux accueillant notamment des familles logées par le Samu social",
+      "circonstances": "Dans la nuit du 14 au 15 avril 2005, le feu se déclare dans un hôtel de six niveaux desservi par un escalier unique, non encloisonné et sans exutoire. Il serait parti du bas de l'escalier. Relié par des baies au puits de lumière, l'escalier fait cheminée et les couloirs propagent le feu à chaque étage. Privés de leur seule issue, les occupants ne peuvent être sauvés que par les fenêtres.",
+      "suites": "L'arrêté du 24 juillet 2006, publié au Journal officiel du 4 août 2006 après avis de la Commission centrale de sécurité, réécrit les règles des petits hôtels. Pour les hôtels à construire ou à modifier, il impose la protection des escaliers dès plus d'un étage sur rez-de-chaussée, deux escaliers au-delà de cinquante personnes, des blocs-portes pare-flammes munis de ferme-portes, une détection automatique dans les locaux à risques particuliers, une permanence au tableau de signalisation ou à un report d'alarme et la formation du personnel deux fois par an ; chaque chambre reçoit une consigne d'incendie illustrée. Les hôtels existants disposent de cinq ans pour appliquer ces règles, avec des tolérances pour l'escalier et des alternatives au second escalier. La circulaire du 1er février 2007 en commente l'application. Après le rapport interministériel de mars 2011, l'arrêté du 26 octobre 2011 impose de transmettre un échéancier de travaux à la commission de sécurité avant le 4 novembre 2011, admet des solutions alternatives fondées sur l'analyse de risque et crée un régime propre aux très petits hôtels, qui accueillent vingt personnes au plus.",
+      "recit": [
+        "Dans la nuit du 14 au 15 avril 2005, peu après 2 heures, le feu se déclare à l'hôtel Paris-Opéra, un hôtel meublé où dorment notamment des familles logées par le Samu social. Il serait parti du bas de l'unique escalier, non encloisonné et relié par des baies à un puits de lumière : l'escalier fait cheminée et les couloirs portent le feu à chaque étage. Privés de leur seule issue, les occupants appellent aux fenêtres ; certains se jettent dans le vide. Les sapeurs-pompiers de Paris conduisent les sauvetages par l'extérieur, fenêtre après fenêtre, et sauvent plus d'une cinquantaine de personnes par les échelles. L'incendie fait 24 morts, dont 11 enfants, et une cinquantaine de blessés.",
+        "La Commission centrale de sécurité consacre en 2005 deux séances extraordinaires aux enseignements du drame, pour les petits hôtels ne comportant qu'un escalier non encloisonné, et un groupe de travail prépare le texte. L'arrêté du 24 juillet 2006 impose la protection des escaliers dès plus d'un étage sur rez-de-chaussée, un second escalier au-delà de cinquante personnes, des portes pare-flammes munies de ferme-portes, la détection dans les locaux à risques particuliers et la formation du personnel ; les hôtels existants ont cinq ans pour s'y conformer. Sa circulaire d'application du 1er février 2007 le rattache expressément à l'incendie. En 2011, un rapport interministériel constate que le drame a montré les limites des règles alors en vigueur, surtout pour la protection des circulations et des escaliers, mais juge nécessaire une approche plus fine pour les plus petits établissements. L'arrêté du 26 octobre 2011 admet des solutions adaptées à chaque hôtel, fondées sur l'analyse de risque."
+      ],
+      "enseignement": "À la rue de Provence, plusieurs chambres restées portes fermées ont été peu détériorées, alors que l'escalier unique et les couloirs brûlaient. La réforme de 2006 impose de protéger l'escalier dès plus d'un étage, des portes pare-flammes avec ferme-porte, et une consigne qui dit de rester dans sa chambre si le couloir est enfumé.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#paris-opera-2005",
+      "preuves": [
+        "qe-2010-77447-paris-opera",
+        "ccs-2006-01-05-petits-hotels",
+        "ccs-2006-02-02-petits-hotels",
+        "arrete-2006-petits-hotels",
+        "circulaire-2007-petits-hotels",
+        "rapport-2011-petite-hotellerie",
+        "arrete-2011-petits-hotels"
+      ]
+    },
+    {
+      "id": "cuba-libre-2016",
+      "titre": "L'incendie du bar Au Cuba Libre à Rouen (2016)",
+      "date": "6 août 2016",
+      "periode": "2010-Aujourd'hui",
+      "etablissement": "Bar Au Cuba Libre",
+      "sousTitre": "14 morts dans le sous-sol d'un bar de 5e catégorie, et aucune réforme nationale",
+      "lieu": "Rouen (Seine-Maritime)",
+      "adresse": "Bar Au Cuba Libre, 44 avenue Jacques-Cartier, 76100 Rouen",
+      "bilanHumain": "14 morts et 6 blessés",
+      "activite": "Bar de 5e catégorie, dont le sous-sol a été aménagé en cours d'exploitation",
+      "circonstances": "Dans la nuit du 5 au 6 août 2016, un incendie survient au sous-sol du bar pendant une fête d'anniversaire. Quatorze jeunes meurent et six sont blessés.",
+      "suites": "Aucune modification nationale du règlement de sécurité ne suit le sinistre. En octobre 2016, le ministre de l'intérieur annonce une circulaire aux maires, par l'intermédiaire des préfets, pour repérer les établissements susceptibles de poser problème et planifier leur contrôle ; il se dit favorable à l'extension du registre de sécurité, à un diagnostic de sécurité à la vente et à un label pour les établissements de nuit. Par note du 28 octobre 2016, le ministère demande aux préfets de rappeler aux maires les principales règles applicables aux ERP de 5e catégorie, les obligations des exploitants en matière de registre de sécurité et la possibilité, pour le maire, d'ordonner des visites inopinées dans le cadre de ses pouvoirs de police. En 2019, le ministère écarte le diagnostic à la vente, qui ne relève pas du règlement de sécurité, et le label, qui ne relève pas de sa compétence. En 2026, après l'incendie de Crans-Montana, il indique ne pas envisager de modifier la réglementation.",
+      "recit": [
+        "Dans la nuit du 5 au 6 août 2016, un incendie survient au sous-sol du bar Au Cuba Libre, avenue Jacques-Cartier à Rouen, pendant une fête d'anniversaire. Quatorze jeunes meurent et six sont blessés. Le sous-sol avait été aménagé au cours de l'exploitation de l'établissement. Le bar relève de la 5e catégorie sans locaux à sommeil : son exploitant n'a aucune autorisation d'ouverture à demander au maire, et aucune visite de la commission de sécurité n'est obligatoire.",
+        "En octobre 2016, interrogé à l'Assemblée nationale, le ministre de l'intérieur rappelle qu'il existe 200 000 établissements de 5e catégorie et qu'ils ne peuvent pas tous être contrôlés à la fois. Il annonce une circulaire pour cibler les contrôles et se dit favorable à un registre étendu, à un diagnostic de sécurité à la vente et à un label. La note du 28 octobre 2016 rappelle aux maires les règles applicables, le registre de sécurité et leur pouvoir d'ordonner des visites inopinées. En 2019, le ministère écarte le diagnostic à la vente et le label, estimant que l'efficacité des mesures proposées ne peut être démontrée."
+      ],
+      "enseignement": "Le Cuba Libre montre la limite du régime de la 5e catégorie : l'établissement n'a aucune autorisation d'ouverture à demander, et un sous-sol aménagé en cours d'exploitation peut rester inconnu de la commission de sécurité. En 2016, le ministre se dit favorable à un registre étendu, à un diagnostic à la vente et à un label ; en 2019, le diagnostic et le label sont écartés.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#cuba-libre-2016",
+      "preuves": [
+        "cuba-libre-an-4234",
+        "cuba-libre-an-1918",
+        "cuba-libre-an-12513"
+      ]
+    },
+    {
+      "id": "notre-dame-2019",
+      "titre": "L'incendie de Notre-Dame de Paris (2019)",
+      "date": "15 avril 2019",
+      "periode": "2010-Aujourd'hui",
+      "etablissement": "Notre-Dame de Paris",
+      "sousTitre": "Trois blessés légers, la flèche et la charpente détruites, une cathédrale rouverte en 2024",
+      "lieu": "Paris (4e arrondissement)",
+      "adresse": "Île de la Cité, 75004 Paris",
+      "bilanHumain": "Aucun décès, deux policiers et un sapeur-pompier légèrement blessés",
+      "activite": "Cathédrale, édifice cultuel et monument historique classé, en cours de restauration de sa flèche",
+      "circonstances": "Le 15 avril 2019, peu après 18 h 30, alors que la flèche est en restauration sous échafaudage, de la fumée apparaît à la base de la flèche. Le feu gagne la couverture et la charpente. La flèche s'effondre à 19 h 45 ; dans la nuit, sa base cède et entraîne la voûte de la croisée du transept. Près de 600 sapeurs-pompiers en viennent à bout le lendemain matin, après 15 heures. L'origine du feu n'est établie par aucune source publique.",
+      "suites": "Aucune réforme générale de la réglementation incendie ne suit le sinistre. La loi n° 2019-803 du 29 juillet 2019 organise une souscription nationale et les modalités de conservation et de restauration de la cathédrale. Une note du ministre de l'intérieur de mai 2019 demande aux services d'incendie et de secours d'établir des plans ÉTARÉ pour les cathédrales et de réaliser des exercices de mise en œuvre des plans de sauvegarde des biens culturels. Le ministère de la culture fait auditer les 87 cathédrales de l'État, puis élabore en 2019 un plan d'actions « sécurité des cathédrales », complété en 2021 et actualisé en 2023 : 58 actions portant notamment sur les installations électriques, les travaux par points chauds, la détection, le recoupement des combles, les plans ÉTARÉ, les plans de sauvegarde des biens culturels, la surveillance humaine et la formation. Le plan se présente comme une démarche qui dépasse les simples exigences réglementaires.",
+      "recit": [
+        "Le 15 avril 2019, peu après 18 h 30, un incendie se déclare dans la partie haute de la cathédrale, dont la flèche est en restauration sous échafaudage. De la fumée apparaît à la base de la flèche, puis le feu gagne la couverture et la charpente. La flèche s'effondre à 19 h 45. Près de 600 sapeurs-pompiers sont engagés ; un robot est envoyé dans la nef, où il est impossible de faire intervenir des hommes, et la couronne d'épines et les autres objets sont évacués. Le feu est vaincu le 16 avril au matin, après 15 heures : la structure est préservée, mais la base de la flèche a cédé dans la nuit et entraîné la voûte de la croisée du transept. Deux policiers et un sapeur-pompier sont légèrement blessés. Après des années de sécurisation et de restauration, la cathédrale rouvre en décembre 2024.",
+        "La loi du 29 juillet 2019 organise la souscription nationale, la conservation et la restauration de l'édifice ; elle ne modifie pas la réglementation incendie. Le ministère de la culture fait auditer les 87 cathédrales de l'État, puis adopte un plan d'actions « sécurité des cathédrales » de 58 actions, qui ajoute à la sécurité des personnes la protection des œuvres et la présence humaine. En 2023, un rapport de l'Assemblée nationale relève que les cathédrales de l'État au niveau de sécurité insuffisant sont passées de 15 à 3, mais qu'il n'y a pas eu d'avant et d'après Notre-Dame pour les cathédrales appartenant aux communes."
+      ],
+      "enseignement": "Notre-Dame passait pour une référence en sécurité incendie. Le plan qui suit ne modifie pas le règlement de sécurité : il ajoute la protection des œuvres et une surveillance humaine, deux points que la réglementation ERP, centrée sur les personnes, ne couvre pas.",
+      "url": "https://continuumsolutions.fr/histoire-reglementaire#notre-dame-2019",
+      "preuves": [
+        "interieur-2019-notre-dame",
+        "drac-2024-notre-dame",
+        "loi-2019-803",
+        "plan-securite-cathedrales-2023",
+        "an-2023-securite-cathedrales",
+        "interieur-2024-notre-dame"
+      ]
+    }
+  ],
+  "preuves": [
+    {
+      "id": "an-2024-bataillon-1811",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport n° 994 de l'Assemblée nationale, du 19 février 2024, rappelle que l'arrêté du 12 messidor an VIII avait chargé le préfet de police de prendre les mesures propres à prévenir ou arrêter les incendies, et écrit qu'« un feu s'étant déclaré exactement dix ans après à l'ambassade d'Autriche a conduit Napoléon Ier à prendre le décret impérial du 18 septembre 1811 portant création d'un corps de sapeurs-pompiers pour la ville de Paris » (p. 38).",
+      "notes": "Mention historique figurant dans un rapport consacré aux personnels de santé des services d'incendie et de secours, et non dans un travail d'histoire.",
+      "titre": "Assemblée nationale, rapport n° 994 du 19 février 2024, voir p. 38 (PDF, 1,3 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/AN_Rapport_994_2024-02-19_Personnels_de_sante_des_services_d_incendie.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "decret-imperial-1811",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le décret impérial n° 7254 du 18 septembre 1811, publié au Bulletin des lois n° 392, porte création d'un corps de sapeurs-pompiers pour la ville de Paris. Son article 1er prévoit la formation, avant le 1er janvier 1812, d'un bataillon de sapeurs chargé spécialement du service des pompes à incendie de Paris, son article 2 le divise en quatre compagnies de cent quarante-deux hommes, et son article 3 le place sous les ordres et l'administration du préfet de police et sous l'autorité du ministre de l'intérieur. Son article 41 soumet les sapeurs-pompiers aux lois, règlements et arrêtés relatifs à la discipline, police et justice militaire, de la même manière que les compagnies de réserve.",
+      "titre": "Décret impérial du 18 septembre 1811 - création du bataillon de sapeurs-pompiers de Paris (PDF, 0,4 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_imperial_1811-09-18_creation_corps_sapeurs-pompiers_Paris.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ordonnance-police-1897",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'ordonnance de police du 1er septembre 1897 porte sur les mesures préventives et les secours contre l'incendie dans la ville de Paris. Elle traite des foyers, appareils de chauffage et conduits de fumée, des couvertures en matières inflammables, des fours et forges, des entrepôts et dépôts de matières combustibles, des magasins de décors de théâtre, et des établissements et théâtres forains. Son article 41 impose à ces derniers, lorsqu'ils reçoivent du public, un éclairage au gaz canalisé, à l'huile végétale ou à l'électricité, et des sorties, escaliers et dégagements largement suffisants. Son article 51 abroge l'ordonnance du 15 septembre 1875.",
+      "titre": "Ordonnance du préfet de police du 1er septembre 1897 - prévention et secours contre l'incendie à Paris (PDF, 4,4 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ordonnance_PP_1897-09-01_Mesures_preventives_et_secours_incendie_Paris.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ordonnance-police-1906",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'ordonnance de police du 27 mars 1906 abroge celle du 1er septembre 1897 et étend la prévention aux dépôts, ateliers et établissements ouverts au public. Son article 46 vise les établissements pouvant recevoir simultanément plus de cent personnes et confie la détermination de leurs moyens de secours à la Préfecture de police, sur le rapport d'une commission spéciale. Son article 47 impose des escaliers, couloirs et dégagements en nombre et largeur suffisants, des escaliers en matériaux résistant au feu, l'ouverture des portes dans le sens de la sortie, et un escalier séparé des locaux exploités par des murs pleins en maçonnerie pour desservir les locaux habités par des tiers. Son article 60 distingue les dispositions de construction, applicables aux bâtiments à édifier et aux reconstructions partielles, des dispositions d'exploitation, immédiatement applicables aux locaux existants.",
+      "titre": "Ordonnance du préfet de police du 27 mars 1906 - prévention et secours contre l'incendie à Paris (PDF, 3,7 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ordonnance_PP_1906-03-27_Mesures_preventives_et_secours_incendie_Paris.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "cassation-1985-hotel-amerique",
+      "nature": "décision de justice",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Cour de cassation, première chambre civile, 29 janvier 1985, pourvoi n° 83-16.108, publié au Bulletin. L'arrêt juge que l'absence de réglementation particulière n'exonère pas l'hôtelier de son obligation d'observer, dans l'aménagement, l'organisation et le fonctionnement de son établissement, les règles de prudence et de surveillance qu'exige la sécurité de ses clients, et que le manquement à cette obligation est causal non seulement lorsqu'il a provoqué le dommage, mais aussi quand il en a aggravé les conséquences. La cour d'appel avait retenu que l'origine du sinistre n'avait pas pu être déterminée, mais que l'incendie, né au rez-de-chaussée, s'était propagé aux étages en raison du déversement de gaz de ville provoqué par la fusion de la canalisation en plomb et de la nature particulièrement combustible des matériaux d'aménagement intérieur et de décoration.",
+      "titre": "Arrêt de la Cour de cassation du 29 janvier 1985, n° 83-16.108 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Cassation_civile_1985-01-29_pourvoi_83-16108_Hotel_Amerique.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "roussel-1904-metropolitain",
+      "nature": "rapport d'enquête ou d'inspection",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport de Félix Roussel au Conseil municipal de Paris, daté du 1er mars 1904, établit les faits et les causes de l'accident du 10 août 1903 et reproduit les actes pris à sa suite. Son chapitre XVI hiérarchise les causes : cause primordiale l'incendie de la motrice, cause déterminante le fait de l'avoir conduite dans le souterrain sans l'isoler du courant, cause directe le maintien des voyageurs dans la station menacée, cause aggravante l'extinction de l'éclairage. Son chapitre XVII rappelle que le Métropolitain est un chemin de fer d'intérêt local au sens de la loi du 30 mars 1898 et que le pouvoir de police appartient au Préfet de police. Son chapitre XVIII reproduit les injonctions A, B et C notifiées à la Compagnie le 19 août 1903. Son annexe XIX reproduit le projet d'arrêté transmis à la Compagnie le 9 mars 1904, dont l'article premier impose un éclairage de secours permanent alimenté par une source entièrement extérieure au chemin de fer et indépendante de l'alimentation de la traction, le sectionnement du rail de prise de courant et des commandes de coupure espacées de cent mètres au plus.",
+      "notes": "Les pages 617 à 621 portent un projet d'arrêté joint à une lettre du Préfet de police, non un arrêté en vigueur. Ne pas écrire que l'arrêté du 9 mars 1904 a prescrit ces mesures tant que l'acte signé n'a pas été retrouvé.",
+      "titre": "Rapport Roussel - accident du métro du 10 août 1903 - Conseil municipal de Paris, 1904 (PDF, 21,4 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_Roussel_1904-03-01_Accident_Metropolitain_10-aout-1903_Conseil_municipal_Paris.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ordonnance-police-1881-theatres",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'ordonnance de police du 16 mai 1881 règle la construction, l'aménagement et l'exploitation des théâtres, cafés-concerts et autres spectacles publics de Paris. Son article 1er soumet toute personne voulant faire construire ou exploiter un théâtre à une déclaration préalable au ministère de l'Instruction publique et des Beaux-Arts et à la Préfecture de police, accompagnée des plans détaillés en triple exemplaire, avec coupes et élévations et indication du nombre de places par étage ; son article 2 subordonne le commencement des travaux à la notification par l'administration des modifications à introduire. Son article 7 impose de séparer les trois parties du théâtre par de gros murs en maçonnerie, construites et distribuées en matériaux incombustibles, la salle et les bâtiments d'administration devant avoir sur l'extérieur des issues distinctes. Son article 16 dispose que tous les décors seront rendus ininflammables au moyen d'une préparation spéciale, essayés avant leur mise en service devant la Commission des théâtres, les essais étant renouvelés tous les six mois au moins et constatés par l'apposition d'un cachet. Ses articles 22 et 23 imposent des escaliers droits pour le public, d'une largeur minimale de 1,50 mètre, augmentée à chaque révolution en proportion du nombre de personnes.",
+      "titre": "Ordonnance du préfet de police du 16 mai 1881 - théâtres et spectacles (PDF, 6,9 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ordonnance_PP_1881-05-16_Theatres_cafes-concerts_et_autres_spectacles_publics.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ordonnance-police-1888-theatres",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'ordonnance de police du 17 avril 1888 concerne l'emploi de la lumière électrique dans les théâtres, cafés-concerts et autres spectacles publics. Elle ne remplace pas l'ordonnance du 16 mai 1881 et ne rend pas l'électricité obligatoire. Son article 1er impose une déclaration préalable accompagnée d'un plan détaillé en triple exemplaire indiquant l'emplacement des générateurs, des machines et le tracé des conducteurs, d'une note sur les machines et les lampes à arc ou à incandescence et d'un échantillon de chaque conducteur ; son article 2 subordonne le commencement des travaux à la notification de l'administration. Son article 15 proportionne le diamètre des conducteurs à l'intensité du courant, son article 16 limite la différence de potentiel à 300 volts en courant continu, au-delà de quoi une autorisation spéciale de la Commission supérieure des théâtres est nécessaire, et son article 17 interdit rigoureusement d'employer les conduites d'eau et de gaz et les parties métalliques de la construction comme conducteur.",
+      "titre": "Ordonnance du préfet de police du 17 avril 1888 - lumière électrique dans les théâtres et spectacles (PDF, 2,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ordonnance_PP_1888-04-17_Theatres.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ordonnance-police-1898-theatres",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'ordonnance de police du 1er septembre 1898 remplace celle du 16 mai 1881 pour les théâtres, cafés-concerts et autres spectacles publics, après délibérations de la Commission supérieure des théâtres des 3 et 4 août 1898.",
+      "titre": "Ordonnance du préfet de police du 1er septembre 1898 - théâtres et spectacles (PDF, 7,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ordonnance_PP_1898-09-01_Theatres_cafes-concerts_et_autres_spectacles_publics.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "marseille-decret-loi-1938",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport au Président de la République qui accompagne le décret-loi du 12 novembre 1938 constate que les moyens matériels des corps de sapeurs-pompiers ne correspondent pas toujours, « une tragique expérience vient de le démontrer », aux nécessités de la défense. Le texte crée une inspection technique permanente des corps de sapeurs-pompiers confiée à des officiers du régiment de Paris, permet de réorganiser par décret en conseil des ministres un corps communal, y compris en lui donnant une organisation militaire inspirée de celle du corps de Paris, et permet de prescrire par décret les mesures de sécurité et les moyens d'évacuation et de défense à imposer aux propriétaires, constructeurs et exploitants des établissements ouverts au public.",
+      "notes": "Le rapport ne nomme pas les Nouvelles Galeries. Ce texte ne crée pas le bataillon des marins-pompiers de Marseille : celui-ci résulte du décret-loi du 29 juillet 1939.",
+      "titre": "Décret-loi du 12 novembre 1938 - protection contre l'incendie et sapeurs-pompiers (PDF, 0,4 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_Loi_1938_11_12_Sapeurs_Pompiers_JORF.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "senat-2013-bmpm",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "L'avis du Sénat sur les crédits de la sécurité civile pour 2014 indique qu'à la suite du feu qui a ravagé, le 28 octobre 1938, le grand magasin des Nouvelles Galeries sur la Canebière, le président du Conseil Édouard Daladier crée, par un décret-loi du 29 juillet 1939, le bataillon des marins-pompiers de Marseille.",
+      "titre": "Avis du Sénat n° 162 (2013-2014) - sécurité civile, voir p. 34 (PDF, 0,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_Avis_162_2013-2014_Securite_civile.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ons-2004-nouvelles-galeries",
+      "nature": "rapport d'enquête ou d'inspection",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport 2004 de l'Observatoire national de la sécurité des établissements scolaires retient 75 morts à l'incendie des Nouvelles Galeries de Marseille le 28 octobre 1938 et y rattache le décret-loi du 12 novembre 1938, sur les mesures d'évacuation et de défense contre l'incendie imposables aux propriétaires et exploitants, puis le décret du 7 février 1941, première réglementation des établissements recevant du public.",
+      "notes": "La Ville de Marseille retient 73 morts. Le chiffre de 38 morts donné par le rapport IGA-IGAS de 2014 n'est pas retenu.",
+      "titre": "Rapport 2004 de l'Observatoire national de la sécurité des établissements scolaires, voir p. 73 (PDF, 1,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_ONS_2004_Observatoire_national_securite_etablissements_scolaires.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ce-1952-nouvelles-galeries",
+      "nature": "décision de justice",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Par un arrêt de Section du 29 février 1952, Société « La Séquanaise », le Conseil d'État retient que l'incendie, parti du premier étage du magasin des 73 et 75 Canebière, a causé la mort de 73 personnes. Il juge la destruction de l'immeuble inévitable, mais retient que les dommages corporels et les dommages aux hôtels voisins ont été aggravés par les fautes lourdes de la ville de Marseille dans l'organisation et le fonctionnement de son service de lutte contre l'incendie : insuffisance grave du personnel et du matériel, absence de direction et de coordination des manœuvres, ignorance technique et maladresse des hommes chargés des pompes et des échelles. Presque toutes les victimes réfugiées côté rue Thubaneau auraient pu être sauvées avec un matériel approprié. La ville est condamnée à payer les deux tiers des sommes en cause. Deux arrêts du même jour, Dame veuve Friches et Demoiselle Servel, retiennent la même part pour des employés morts au troisième étage.",
+      "notes": "Recueil des arrêts du Conseil d'État, 1952, p. 145 à 147, numérisé par la Bibliothèque nationale de France (Gallica), domaine public. La Ville de Marseille retient également 73 morts ; le bataillon de marins-pompiers et le rapport ONS 2004 en retiennent 75.",
+      "titre": "Conseil d'État, 29 février 1952, Nouvelles Galeries - Recueil Lebon, p. 145 à 147 (PDF, 0,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/CE_1952-02-29_Nouvelles_Galeries_Recueil_Lebon_p145-147.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "decret-1941",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le décret du 7 février 1941 constitue le premier règlement de sécurité de portée nationale applicable aux établissements recevant du public.",
+      "titre": "Décret du 7 février 1941 - sécurité incendie des locaux recevant du public (PDF, 2,2 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_1941_02_07_Reglement_National_ERP_Complet_JODEF.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "decret-1954",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le décret n° 54-856 du 13 août 1954 classe les établissements en quatre catégories d'après l'effectif, prend en compte la panique et prévoit des sanctions pénales. Ses visas citent « le décret du 15 juillet 1949 modifié par le décret du 21 juillet 1951, fixant les conditions d'essais et la classification des matériaux de construction par rapport à la protection contre l'incendie des locaux recevant du public ».",
+      "titre": "Décret n° 54-856 du 13 août 1954 - sécurité incendie des ERP (PDF, 0,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_1954_08_13_Reglement_ERP_JORF.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-1954",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 13 août 1954 approuve le règlement de sécurité pris pour l'application du décret n° 54-856.",
+      "titre": "Arrêté du 13 août 1954 - règlement de sécurité des ERP (PDF, 3,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_1954_08_13_Reglement_Securite_ERP_JORF.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-1965",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 23 mars 1965 approuve le règlement de sécurité qui succède aux textes de 1954. Dans sa version d'origine, il ne comporte ni titre VI ni établissements de 5e catégorie.",
+      "notes": "Vérifié par extraction du fac-similé du Journal officiel du 30 mars 1965 : aucune occurrence de « 5e catégorie », « cinquième catégorie » ou « titre VI ».",
+      "titre": "Arrêté du 23 mars 1965 - règlement de sécurité des ERP (PDF, 8,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_1965_03_23_Reglement_Securite_ERP_JORF.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "an-1970-saint-laurent",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Réponse du ministre de l'intérieur aux questions orales sur la catastrophe de Saint-Laurent-du-Pont, cinq jours après le sinistre, d'après le premier rapport du préfet. Le Cinq-Sept est un snack-bar dancing ouvert en avril 1970 au lieudit Les Tourbières, le long de la route nationale 520. Le permis de construire est délivré le 7 novembre 1969, après un avis favorable de la commission départementale de sécurité du 30 juin 1969 sous réserve de prescriptions ; les travaux avaient commencé avant le permis ; aucune déclaration d'achèvement ni certificat de conformité, donc aucune vérification de la concordance des plans et de l'exécution ; ouverture au public sans demande d'autorisation au maire. Écarts relevés avec le projet : cloisons déplacées, porte extérieure supprimée, chaufferie déplacée, loges et galeries en surplomb de la piste desservies par un escalier en colimaçon, revêtements intérieurs non mentionnés, deux tourniquets de grande hauteur absents du plan. Le feu se déclare vers 1 h 35 dans une loge au-dessus du bar ; l'établissement n'a pas le téléphone, l'alerte est donnée à 1 h 45 et les secours arrivent à 1 h 55 ; deux portes de secours métalliques sont descellées et une porte en bois fermée à clé est ouverte. Le maire et le secrétaire général de la préfecture sont suspendus, un inspecteur général de l'administration est saisi, et la police et la gendarmerie reçoivent la mission de vérifier la détention des certificats de conformité et des autorisations d'ouverture.",
+      "notes": "Les questions des députés font état de 144 puis 145 victimes, bilan alors provisoire ; la fiche retient les 146 morts du rapport de l'Assemblée nationale n° 2266 de 2000 et du rapport 2004 de l'Observatoire national de la sécurité.",
+      "titre": "Journal officiel, débats de l'Assemblée nationale, séance du 6 novembre 1970 - catastrophe de Saint-Laurent-du-Pont (PDF, 0,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JO_Debats_AN_1970-11-06_Catastrophe_Saint-Laurent-du-Pont.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ons-2004-sinistres-textes",
+      "nature": "rapport d'enquête ou d'inspection",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport 2004 de l'Observatoire national de la sécurité des établissements scolaires retrace l'évolution de la réglementation à la suite des sinistres graves. Il retient 146 morts au dancing Le Cinq-Sept le 1er novembre 1970 et rattache ce sinistre au décret du 31 octobre 1973, qui renforce les obligations des propriétaires et des exploitants ainsi que les contrôles.",
+      "titre": "Rapport 2004 de l'Observatoire national de la sécurité des établissements scolaires, voir p. 73 (PDF, 1,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_ONS_2004_Observatoire_national_securite_etablissements_scolaires.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "decret-1973-cch",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le décret n° 73-1007 du 31 octobre 1973 crée les établissements de 5e catégorie : son article 14 les définit par l'effectif et son article 19 les inscrit dans la liste des catégories. Son article 57 abroge le décret du 7 février 1941 et le décret n° 54-856.",
+      "titre": "Décret n° 73-1007 et arrêté du 31 octobre 1973 - création du titre VI, 5e catégorie (PDF, 0,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JORF_1973_11_04_Decret_73-1007_et_Arrete_31_octobre_1973.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-1973-titre-vi",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 31 octobre 1973, publié au même Journal officiel, complète le règlement de sécurité du 23 mars 1965 par un titre VI consacré aux établissements dont l'effectif n'atteint pas les seuils des titres III, IV et V, soit les établissements de 5e catégorie.",
+      "titre": "Décret n° 73-1007 et arrêté du 31 octobre 1973 - création du titre VI, 5e catégorie (PDF, 0,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JORF_1973_11_04_Decret_73-1007_et_Arrete_31_octobre_1973.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "pailleron-1973",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport de la mission d'information du Sénat sur les constructions scolaires, constituée à la suite de l'incendie du collège Pailleron, relève qu'un même processus a permis la construction d'établissements « Constructions modulaires » non conformes aux règlements de sécurité (p. 16) et souligne les dangers du non-examen systématique des procédés de base avant leur agrément (p. 95). Il indique que l'administration centrale poursuivait déjà la refonte du décret du 13 août 1954 avant le sinistre (p. 91), et que le décret du 31 octobre 1973 soumet les établissements des personnes de droit public au régime des commissions de sécurité, impose l'avis de la commission centrale pour les procédés de construction destinés à être répétés et prévoit un responsable désigné, précisé par les arrêtés du 14 mai 1975 (p. 93 à 95). Il conclut que le procédé tel qu'il a été réalisé n'assurait pas une stabilité au feu suffisante (p. 263 à 265).",
+      "titre": "Rapport du Sénat n° 185 (1974-1975), tome I - constructions scolaires, CES Pailleron, voir p. 16, 91 à 97 et 263 à 265 (PDF, 18,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_Rapport_information_185_1974-1975_Constructions_scolaires_T1.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "pailleron-1973-annexes",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le tome II du rapport du Sénat reproduit l'enquête administrative de février 1973 et la chronologie de l'incendie établie d'après les sapeurs-pompiers : mise à feu entre 19 h 25 et 19 h 30, alerte à 19 h 45, effondrement de l'angle nord-est vers 20 heures et de la partie centrale à 20 h 10. Cinquante-deux élèves du conservatoire municipal occupaient quatre salles du deuxième étage. L'expert de la mission décrit la propagation par les cloisons en panneaux de particules et par les vides entre faux plafonds et planchers, où des canalisations de gaz ont cédé, et la déformation des poteaux métalliques pas ou mal protégés. L'annexe VIII recense les circulaires de 1973 et les arrêtés du 14 mai 1975.",
+      "titre": "Rapport du Sénat n° 185 (1974-1975), tome II - annexes, voir p. 11 à 25 et 97-98 (PDF, 8,6 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_Rapport_information_185_1974-1975_Constructions_scolaires_T2.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-1976-titre-vi",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 4 novembre 1976 supprime et remplace le titre VI du règlement de sécurité par un titre VI intitulé « Établissements de la 5e catégorie », introduit les articles PE et ajoute un titre VII consacré aux chapiteaux et tentes.",
+      "notes": "Le texte de l'arrêté énonce explicitement : « Le titre VI est supprimé et remplacé par le suivant ». Il n'est donc pas le texte créateur de la 5e catégorie, mais celui qui lui donne sa structure actuelle en articles PE.",
+      "titre": "Arrêté du 4 novembre 1976 - établissements de 5e catégorie (PDF, 0,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_1976_11_04_5e_Categorie_ERP_JORF.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-1980",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 25 juin 1980 porte approbation des dispositions générales du règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public. Il succède au règlement du 23 mars 1965 et demeure le règlement de sécurité en vigueur.",
+      "titre": "Arrêté du 25 juin 1980 - règlement de sécurité des ERP, dispositions générales (PDF, 4,4 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_1980_06_25_Reglement_Securite_ERP_JORF_NC.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "reco-europeenne-1986",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "La recommandation 86/666/CEE du Conseil du 22 décembre 1986 demande aux États membres d'élever le niveau de sécurité incendie des hôtels existants.",
+      "titre": "Recommandation européenne du 22 décembre 1986 - sécurité incendie des hôtels existants",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A31986H0666",
+      "format": "page web"
+    },
+    {
+      "id": "arrete-1990-5e-cat",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 22 juin 1990 porte approbation de dispositions complétant le règlement de sécurité dans les établissements de type PE, PO, PU et PX, soit les petits établissements du second groupe.",
+      "titre": "Arrêté du 22 juin 1990 - petits établissements (PDF, 0,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_1990_06_22_Petits_Etablissements_PE_PO_PU_PX_JORF.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "cassation-1999-barbotan",
+      "nature": "décision de justice",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Par arrêt du 29 juin 1999, la chambre criminelle de la Cour de cassation confirme la condamnation du maire de Cazaubon pour homicides et blessures involontaires après l'incendie des thermes de Barbotan.",
+      "titre": "Arrêt de la Cour de cassation du 29 juin 1999, n° 98-81.413 (PDF, 0,2 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Cassation_criminelle_1999-06-29_pourvoi_98-81413.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "qe-an-1992-barbotan",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Réponse du garde des sceaux à la question écrite n° 58346 de M. Dominique Baudis : l'incendie des thermes de Barbotan du 27 juin 1991 a donné lieu, dès le lendemain, à l'ouverture d'une information judiciaire pour homicides et blessures involontaires ; le juge d'instruction a ordonné des expertises médico-légales et techniques et délivré une commission rogatoire ; huit autres personnes ont ensuite été inculpées, dont des responsables de la société propriétaire. Le juge des référés d'Auch a accordé, par ordonnance du 30 juin 1992, une provision à cinquante-huit parents de victimes.",
+      "titre": "Question écrite n° 58346 - Assemblée nationale, 10 août 1992 (extrait, PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JOAN_Questions_1992-08-10_QE_58346_Barbotan_extrait.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "iga-igas-2014-erp",
+      "nature": "rapport d'enquête ou d'inspection",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport de l'Inspection générale de l'administration et de l'Inspection générale des affaires sociales sur la prévention du risque incendie dans les ERP et IGH écrit que « le décret du 15 juillet 1949 fera suite au feu du cinéma le Sélect, à Rueil Malmaison, en 1947 (89 morts) » et qu'il fixera les conditions d'essai et la classification des matériaux de construction par rapport à la protection contre l'incendie dans les ERP (p. 22). Il indique par ailleurs que les sinistres des thermes de Barbotan, du stade de Furiani et de la clinique de Bruz conduiront à l'adoption du décret du 8 mars 1995, qui réorganisera les commissions de sécurité (p. 24).",
+      "notes": "Les mêmes pages donnent des bilans inexacts pour le Cinq-Sept, Pailleron, Furiani, Bruz et l'hôtel Paris-Opéra, et attribuent la 5e catégorie au règlement de 1965 : ne s'y appuyer ni pour les bilans ni pour la chronologie du classement.",
+      "titre": "Rapport IGA & IGAS - prévention incendie ERP - IGH - juin 2014, voir p. 22 et 24 (PDF, 6,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/IGA_IGAS_2014-06_Rapport_prevention_risque_incendie_ERP_IGH.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "rapport-lazerges-2000",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport n° 2136 de Mme Christine Lazerges, du 2 février 2000, cite l'incendie des thermes de Barbotan en 1991, avec l'effondrement du stade de Furiani, les inondations de Vaison-la-Romaine et les noyades du Drac, parmi les affaires mettant en cause des élus locaux qui ont relancé le débat sur leur responsabilité pénale. Un groupe d'étude présidé par M. Jacques Fournier est mis en place à la suite de ces affaires, et la loi du 13 mai 1996 s'inspire largement de ses conclusions pour compléter l'article 121-3 du code pénal (p. 28).",
+      "titre": "Rapport Lazerges n° 2136 - Assemblée nationale, février 2000, voir p. 28 (PDF, 1,2 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/AN_Rapport_2136_Lazerges_2000-02-02_Presomption_innocence_droits_victimes.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "cassation-1997-furiani",
+      "nature": "décision de justice",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Arrêt de la chambre criminelle de la Cour de cassation du 24 juin 1997 sur l'effondrement de la tribune provisoire du stade de Furiani. La tribune d'environ 9 000 places, édifiée sans demande d'autorisation au maire du 28 avril au 5 mai 1992, constituait l'élément majeur d'un établissement recevant du public et relevait du contrôle technique obligatoire portant sur la solidité de l'ouvrage et la sécurité des personnes. Les expertises ont établi que l'effondrement était inéluctable en raison d'erreurs de conception et de montage. La commission de sécurité n'a formulé aucun avis définitif et n'a pas vérifié l'existence d'un rapport attestant la stabilité de la tribune ; un procès-verbal irrégulier du 29 avril la présentait comme favorable. Rejet des pourvois contre l'arrêt de la cour d'appel de Bastia du 13 décembre 1995.",
+      "notes": "L'arrêt retient 15 morts et près de 2 000 blessés parmi les 3 500 personnes précipitées dans le vide ; la fiche retient le bilan consolidé de 19 morts et 2 357 blessés énoncé au Sénat en 2021.",
+      "titre": "Arrêt de la Cour de cassation du 24 juin 1997, n° 96-82.424 (PDF, 0,2 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Cassation_criminelle_1997-06-24_pourvoi_96-82424_Furiani.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "senat-2021-furiani",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Séance du Sénat du 14 octobre 2021, adoption définitive de la proposition de loi visant au gel des matchs de football le 5 mai. Au banc du gouvernement, la ministre déléguée rappelle le bilan de la catastrophe de Furiani : 19 décès et 2 357 blessés. Un sénateur de Haute-Corse précise que 18 personnes meurent lors de l'effondrement et que la dernière victime décède deux ans et demi après.",
+      "titre": "Sénat, compte rendu intégral de la séance du 14 octobre 2021, gel des matchs le 5 mai, voir p. 5 à 19 (PDF, 4,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_CR_2021-10-14_Seance_du_14_octobre_2021.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "loi-1992-652",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "La loi n° 92-652 du 13 juillet 1992, adoptée deux mois après Furiani, introduit dans la loi n° 84-610 le chapitre relatif à la sécurité des équipements et des manifestations sportives.",
+      "titre": "Loi n° 92-652 du 13 juillet 1992 - activités physiques et sportives (PDF, 1,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Loi_92-652_1992-07-13_Activites_physiques_et_sportives_JORF_19920716_163.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "decret-1993-711",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le décret n° 93-711 du 27 mars 1993 organise l'homologation des enceintes sportives : demande déposée huit mois avant l'ouverture au public, décision préfectorale après avis de la commission de sécurité ou de la commission nationale de sécurité des enceintes sportives.",
+      "titre": "Décret n° 93-711 du 27 mars 1993 - homologation des enceintes sportives (PDF, 0,4 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_93-711_1993-03-27_Enceintes_sportives_JORF_19930328_074.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "decret-1995-260",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le décret n° 95-260 du 8 mars 1995 refonde les commissions consultatives départementales de sécurité et d'accessibilité, précise leurs compétences et leur incompétence en matière de solidité, et crée la sous-commission d'homologation des enceintes sportives.",
+      "titre": "Décret n° 95-260 du 8 mars 1995 - commissions de sécurité et d'accessibilité (PDF, 0,6 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_95-260_1995-03-08_CCDSA_JORF_19950310_059.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "prefecture-63-responsabilite-maire",
+      "nature": "document ministériel ou préfectoral",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Document de la préfecture du Puy-de-Dôme sur l'analyse des risques dans les établissements recevant du public et la responsabilité du maire. Pour la clinique de Bruz, il rappelle que des constructions avaient été édifiées en violation du code de la construction et de l'habitation et que la visite de la commission de sécurité n'avait pas été sollicitée par le maire, condamné à 20 000 francs d'amende. Il reproduit l'extrait de décision retenant contre le sapeur-pompier rédacteur du procès-verbal une faute de négligence : prescriptions précédentes non reprises, bâtiments non conformes non mentionnés, désenfumage non évoqué, absence de mise en demeure, avis favorable émis alors que les conditions de sécurité n'étaient pas réunies. Il le dit condamné à six mois d'emprisonnement avec sursis et 30 000 francs d'amende.",
+      "titre": "Préfecture du Puy-de-Dôme - ERP et responsabilité du maire (PDF, 0,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Prefecture_Puy-de-Dome_Analyse_risques_ERP_responsabilite_maire.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "circulaire-1995-ccdsa",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "La circulaire du 22 juin 1995 (NOR INTE9500199C) relative aux commissions consultatives départementales de sécurité et d'accessibilité explicite les dispositions du décret n° 95-260 du 8 mars 1995.",
+      "titre": "Circulaire du 22 juin 1995 - commissions de sécurité et d'accessibilité (PDF, 0,9 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Circulaire_1995-06-22_CCDSA_JORF_19951025_249.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "mission-enquete-lescheraines-2004",
+      "nature": "rapport d'enquête ou d'inspection",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport de la mission d'enquête administrative de l'inspection générale de l'administration, du conseil général des ponts et chaussées, des inspections générales de la jeunesse et des sports et du tourisme et de la direction de la défense et de la sécurité civiles, remis en août 2004, établit que l'incendie du centre équestre des Bauges a fait huit morts, six mineurs, un jeune adulte et une employée, et une blessée grave. Le gîte occupait une ferme traditionnelle en trois secteurs mitoyens, dont un stockage de bottes de foin et un dortoir sous charpente. L'établissement, ERP de 5e catégorie, n'avait jamais été visité par une commission de sécurité ; aucun permis n'avait été demandé pour le changement de destination. La mission juge les mesures de protection insuffisantes au regard du risque, estime que rien ne permet de dire que l'incendie était évitable, mais que l'application stricte des règles de sécurité aurait probablement pu limiter les conséquences humaines. Elle recommande notamment de modifier les articles R. 123-14 et R. 123-45 du code de la construction et de l'habitation.",
+      "notes": "La mission n'a pas recherché les causes du sinistre, qui relèvent de l'autorité judiciaire. Selon la base ARIA du ministère de la transition écologique, le parquet de Chambéry a indiqué en novembre 2005 que les experts n'avaient pu déterminer l'origine précise du feu.",
+      "titre": "Rapport de la mission d'enquête administrative sur l'incendie de Lescheraines - août 2004, voir p. 12 à 16 (PDF, 1,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_mission_enquete_administrative_2004-08_Incendie_centre_equestre_Lescheraines.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "lettre-interieur-2004-08-20",
+      "nature": "document ministériel ou préfectoral",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Par lettre du 20 août 2004 aux préfets, prise après le rapport des inspections sur l'incendie de Lescheraines, le ministre de l'intérieur demande de rappeler à tous les détenteurs de stockage de foin ou de paille que le local de stockage doit être éloigné de tout hébergement ou isolé suivant les règles de la sécurité incendie, et de demander aux sous-commissions de sécurité de contrôler l'ensemble des petits établissements de 5e catégorie comportant un hébergement qui n'ont pas été visités depuis plus d'un an.",
+      "notes": "Lettre diffusée en annexe de la note de service DGER/SDACE/N2004-2090 du 20 septembre 2004 du ministère de l'agriculture, qui en reprend les instructions pour les établissements d'enseignement agricole.",
+      "titre": "Lettre du ministre de l'intérieur aux préfets du 20 août 2004 - note de service DGER (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Lettre_Ministre_Interieur_2004-08-20_Lescheraines_Note_DGER_N2004-2090.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ccs-2004-09-09-locaux-sommeil",
+      "nature": "avis de la Commission centrale de sécurité",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le 9 septembre 2004, la Commission centrale de sécurité approuve le projet de décret relatif au contrôle des établissements recevant du public de 5e catégorie comportant des locaux à sommeil. Selon son relevé d'avis, ce projet, préparé à la demande du Premier ministre, a pour objet d'éviter le renouvellement de drames tels que celui du 5 août dans le centre équestre des Bauges.",
+      "notes": "Le projet visait les locaux réservés au sommeil et prévoyait une application au septième mois suivant la publication ; le décret du 27 octobre 2004 retient les locaux d'hébergement pour le public et le quatrième mois.",
+      "titre": "Relevé des avis de la Commission centrale de sécurité du 9 septembre 2004 (PDF, 0,3 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/CCS_Releve_avis_2004-09-09_Projet_decret_locaux_sommeil.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "decret-2004-1141",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Le décret n° 2004-1141 du 27 octobre 2004 complète l'article R. 123-14 du code de la construction et de l'habitation : lorsque les petits établissements disposent de locaux d'hébergement pour le public, ils sont soumis aux articles R. 123-22 à R. 123-26 et R. 123-43 à R. 123-52. Il réécrit l'article R. 123-45 pour que l'exploitant demande au maire l'autorisation d'ouverture, sauf pour les petits établissements sans locaux d'hébergement. Son article 3 rend applicables au premier jour du quatrième mois suivant sa publication les dispositions sur les permis de construire, les travaux et l'ouverture.",
+      "titre": "Décret n° 2004-1141 du 27 octobre 2004 - sécurité incendie de certains ERP (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_2004-1141_2004-10-27_Securite_incendie_certains_ERP_JORF_20041028_0252.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-2004-11-08-pe37",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 8 novembre 2004, pris au visa du décret du 27 octobre 2004, insère dans l'article PE 4 les vérifications techniques avant l'ouverture et crée l'article PE 37, Contrôle des établissements de 5e catégorie comportant des locaux à sommeil : le premier paragraphe et le premier alinéa du deuxième paragraphe de l'article GE 2, ainsi que les articles GE 3, GE 5 et GE 6, leur sont applicables, et ils doivent être visités tous les cinq ans par la commission de sécurité compétente, la fréquence pouvant être augmentée par arrêté du maire ou du préfet, après avis de la commission.",
+      "titre": "Arrêté du 8 novembre 2004 - création de l'article PE 37 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_2004-11-08_PE37_JORF_20041124_0273.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "qe-2010-77447-paris-opera",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Dans sa réponse à la question écrite n° 77447, publiée au Journal officiel du 27 juillet 2010, le ministère de la justice indique que l'incendie survenu le 15 avril 2005 dans un hôtel du 9e arrondissement de Paris a entraîné la mort de vingt-quatre personnes, dont onze enfants, et blessé une cinquantaine d'autres occupants, et qu'une information judiciaire a été ouverte dès le 19 avril 2005 des chefs d'homicides et blessures involontaires.",
+      "notes": "Les manquements énumérés dans la question du député sont des allégations et ne sont pas repris comme des faits établis.",
+      "titre": "Assemblée nationale, question écrite n° 77447 et réponse du 27 juillet 2010 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JOAN_QE_77447_Reponse_2010-07-27_Incendie_hotel_Paris-Opera.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ccs-2006-01-05-petits-hotels",
+      "nature": "avis de la Commission centrale de sécurité",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Selon le bilan de ses travaux de 2005, présenté le 5 janvier 2006, l'année de la Commission centrale de sécurité a surtout été marquée par le renforcement des mesures de prévention des incendies dans les petits hôtels ne comportant qu'un escalier non encloisonné, à la suite de l'incendie de l'hôtel Paris-Opéra. La Commission a consacré deux séances extraordinaires aux enseignements du drame, et un groupe de réflexion réuni pendant six demi-journées a recherché un texte satisfaisant en termes de sécurité et de coût pour les professionnels de l'hôtellerie.",
+      "titre": "Relevé des avis de la Commission centrale de sécurité du 5 janvier 2006 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/CCS_Releve_avis_2006-01-05_Bilan_2005_petits_hotels.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "ccs-2006-02-02-petits-hotels",
+      "nature": "avis de la Commission centrale de sécurité",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le 2 février 2006, la Commission centrale de sécurité donne un avis favorable au projet de modification des articles PE 33 et PO 1 à PO 12 relatifs à la sécurité des occupants des petits hôtels, élaboré par un groupe spécialement constitué. Les éléments de circulaire joints présentent le texte comme la continuité des arrêtés de 1976 et de 1990 et fixent l'achèvement des mesures au terme des cinq années suivant sa publication.",
+      "titre": "Relevé des avis de la Commission centrale de sécurité du 2 février 2006 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/CCS_Releve_avis_2006-02-02_Projet_arrete_petits_hotels.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-2006-petits-hotels",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 24 juillet 2006, publié au Journal officiel du 4 août 2006, remplace les règles spécifiques aux hôtels de 5e catégorie. Pour les établissements à construire ou à modifier, il impose la protection des escaliers dès plus d'un étage sur rez-de-chaussée, deux escaliers au-delà de cinquante personnes, des blocs-portes pare-flammes de degré une demi-heure munis d'un ferme-porte, une détection automatique dans les locaux à risques particuliers et deux séances annuelles d'instruction du personnel ; une consigne d'incendie illustrée est affichée dans chaque chambre. Sa section 2 rend ses prescriptions applicables dans un délai de cinq ans aux établissements existants à la date de publication.",
+      "titre": "Arrêté du 24 juillet 2006 - petits hôtels (PDF, 0,3 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_2006-07-24_Petits_hotels_JORF_20060804_0179.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "circulaire-2007-petits-hotels",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "La circulaire du ministre de l'intérieur du 1er février 2007 relative à la sécurité contre l'incendie dans les petits hôtels indique qu'à la suite de l'incendie dramatique de l'hôtel Paris-Opéra, survenu à Paris le 15 avril 2005, il est apparu nécessaire de renforcer les prescriptions de sécurité contre l'incendie applicables aux petits hôtels, objectif poursuivi par l'arrêté du 24 juillet 2006 qu'elle commente.",
+      "titre": "Circulaire du 1er février 2007 - sécurité incendie dans les petits hôtels (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Circulaire_2007-02-01_Petits_hotels_INTE0700014C.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "rapport-2011-petite-hotellerie",
+      "nature": "rapport d'enquête ou d'inspection",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport de l'inspection générale de l'administration, de l'inspection générale des affaires sociales, du conseil général de l'environnement et du développement durable et du contrôle général économique et financier de mars 2011 indique que le renforcement de la réglementation de la petite hôtellerie a été décidé à la suite de l'incendie de l'hôtel Paris-Opéra, qui avait souligné la nécessité de généraliser des dispositifs de détection et d'évacuation plus adaptés. Selon lui, l'incendie a mis en évidence les limites des dispositions alors en vigueur, notamment une protection encore insuffisante des circulations et des escaliers ; il rappelle qu'avant 2006 les arrêtés de 1976 et 1990 donnaient déjà cinq ans aux hôtels existants, et recommande une approche plus fine, en particularisant les plus petits établissements.",
+      "titre": "Rapport IGA, IGAS, CGEDD et CGEFi - sécurité incendie de la petite hôtellerie - mars 2011, voir p. 5 et 12 (PDF, 2,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_IGA_IGAS_CGEDD_CGEFi_2011-03_Securite_incendie_petite_hotellerie.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "arrete-2011-petits-hotels",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "L'arrêté du 26 octobre 2011 réécrit les règles des petits hôtels : un échéancier de travaux doit être transmis à la commission de sécurité avant le 4 novembre 2011 ; les établissements existants peuvent proposer des solutions alternatives approuvées par la commission de sécurité après une étude fondée sur l'analyse de risque ; une porte pleine en bois massif de 30 mm est admise comme pare-flammes une demi-heure ; les très petits hôtels, accueillant vingt personnes au plus et dont le dernier plancher accessible au public est à moins de huit mètres, sont dispensés d'encloisonner leurs escaliers s'ils sont équipés d'un système de sécurité incendie de catégorie A et d'une détection automatique dans les circulations et tous les locaux, sanitaires exceptés.",
+      "titre": "Arrêté du 26 octobre 2011 - petits hôtels (PDF, 0,2 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_2011-10-26_Petits_hotels_JORF_20111029_0252.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "cuba-libre-an-4234",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Répondant à la question au Gouvernement n° 4234, publiée au Journal officiel du 12 octobre 2016, le ministre de l'intérieur indique que quatorze jeunes sont décédés lors de la soirée du Cuba Libre et que six ont été blessés. Rappelant qu'il existe 200 000 établissements de 5e catégorie, il annonce une circulaire adressée aux maires par l'intermédiaire des préfets pour identifier les établissements susceptibles de poser problème et planifier les contrôles, et se déclare favorable à l'extension du registre de sécurité, à un diagnostic de sécurité au moment de la vente et à un label pour les établissements de nuit.",
+      "titre": "Assemblée nationale, question au Gouvernement n° 4234 - 12 octobre 2016 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JOAN_QG_4234_2016-10-12_Securite_bars_de_nuit_Cuba_Libre.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "cuba-libre-an-1918",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Dans sa réponse à la question écrite n° 1918, publiée au Journal officiel du 30 juillet 2019, le ministère de l'intérieur indique que le sous-sol du bar a été aménagé en cours d'exploitation et non lors de la cession, rappelle que l'article R. 123-45 du code de la construction et de l'habitation n'impose pas aux exploitants des ERP de 5e catégorie sans locaux à sommeil de demander une autorisation d'ouverture, et écarte le diagnostic de sécurité à la vente et le label. Il précise que, par note du 28 octobre 2016, les préfets ont été invités à rappeler aux maires les principales règles applicables aux ERP de 5e catégorie, les obligations des exploitants en matière de registre de sécurité et la possibilité de visites inopinées dans le cadre de leur pouvoir de police.",
+      "notes": "La note du 28 octobre 2016 elle-même n'est pas publiée ; son contenu est connu par cette réponse.",
+      "titre": "Assemblée nationale, question écrite n° 1918 et réponse du 30 juillet 2019 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JOAN_QE_1918_Reponse_2019-07-30_Dossier_Cuba_Libre.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "cuba-libre-an-12513",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "Dans sa réponse à la question écrite n° 12513, publiée au Journal officiel du 16 juin 2026, le ministère de l'intérieur indique qu'après l'incendie de Crans-Montana du 1er janvier 2026 les préfets ont été invités à conduire des visites inopinées ciblées, notamment dans les établissements qui mettent un sous-sol à disposition de clients susceptibles de danser, et qu'il n'envisage pas, à ce jour, de modifier la réglementation.",
+      "notes": "La question du député rappelle le Cuba Libre et affirme que le sous-sol accueillait des soirées dansantes non déclarées : cette affirmation n'est pas reprise comme un fait établi.",
+      "titre": "Assemblée nationale, question écrite n° 12513 et réponse du 16 juin 2026 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/JOAN_QE_12513_Reponse_2026-06-16_Controle_boites_de_nuit.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "interieur-2019-notre-dame",
+      "nature": "document ministériel ou préfectoral",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Selon le ministère de l'intérieur, l'incendie s'est déclaré peu après 18 h 30 sur le toit de la cathédrale ; près de 600 pompiers ont été mobilisés jusqu'au petit matin, avec bras élévateurs, un robot extincteur dans la nef et des drones ; deux policiers et un sapeur-pompier ont été légèrement blessés ; la structure a été préservée dans sa globalité ; les investigations sur site ont débuté le 18 avril 2019.",
+      "titre": "Ministère de l'intérieur - incendie à Notre-Dame de Paris - 18 avril 2019 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ministere_Interieur_2019-04-18_Incendie_Notre-Dame_de_Paris.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "drac-2024-notre-dame",
+      "nature": "document ministériel ou préfectoral",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Selon la direction régionale des affaires culturelles d'Île-de-France, une restauration de la flèche était en cours, avec un échafaudage enserrant la couverture ; la fumée apparue au tabouret de la flèche s'est muée en flammes, le feu gagnant la couverture, la charpente et la flèche, effondrée à 19 h 45 ; les pompiers sont venus à bout de l'incendie le 16 avril à 9 h 50, après 15 heures ; le tabouret de la flèche a cédé dans la nuit, entraînant la voûte de la croisée du transept ; la couronne d'épines et 1 300 objets ont été évacués.",
+      "notes": "Page web imprimée en texte seul, sans les photographies, avec son adresse et sa date de consultation.",
+      "titre": "DRAC Île-de-France - les premiers mois du sauvetage de Notre-Dame - novembre 2024 (PDF, 0,3 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/DRAC_Ile-de-France_2024-11-29_Premiers_mois_sauvetage_Notre-Dame.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "loi-2019-803",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source primaire",
+      "certitude": "confirmée",
+      "affirmation": "La loi n° 2019-803 du 29 juillet 2019 organise une souscription nationale et les modalités de conservation et de restauration de la cathédrale Notre-Dame de Paris. Elle ne constitue pas une réforme de la réglementation incendie.",
+      "titre": "Loi n° 2019-803 du 29 juillet 2019 - restauration de Notre-Dame de Paris (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Loi_2019-803_2019-07-29_Notre-Dame_JORF_20190730_0175.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "plan-securite-cathedrales-2023",
+      "nature": "document ministériel ou préfectoral",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le plan d'actions « sécurité des cathédrales » du ministère de la culture, élaboré en 2019 à la suite de l'incendie de Notre-Dame, complété en 2021 et actualisé en 2023, comporte 58 actions en huit chapitres pour les 87 cathédrales de l'État : limiter les risques d'éclosion, notamment électriques et liés aux travaux par points chauds, réduire la propagation, faciliter l'action des sapeurs-pompiers, entretenir les relations avec les services de secours, encadrer l'exploitation, réduire les conséquences par des plans de sauvegarde des biens culturels, former les acteurs et suivre chaque édifice. Il relève les carences de surveillance humaine et se présente comme une démarche qui dépasse les simples exigences réglementaires.",
+      "notes": "Le plan date la note du ministre de l'intérieur relative aux plans ÉTARÉ du 19 mai 2019 en page 4, et du 10 mai 2019 en pages 14 et 28.",
+      "titre": "Ministère de la culture - plan d'actions sécurité des cathédrales - mai 2023, voir p. 3 à 8 (PDF, 1,9 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ministere_Culture_2023-05_Plan_actions_securite_cathedrales.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "an-2023-securite-cathedrales",
+      "nature": "travaux parlementaires",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Le rapport d'information n° 1237 de la commission des finances de l'Assemblée nationale, du 16 mai 2023, relève que Notre-Dame était considérée comme la référence en matière de sécurité incendie des bâtiments patrimoniaux, que le ministère de la culture a audité les 87 cathédrales de l'État dès 2019, que les cathédrales au niveau de sécurité insuffisant sont passées de 15 à 3 et celles sous avis défavorable de 15 à 4, que les plans de sauvegarde des biens culturels sont passés de 13 à 66, et qu'il n'y a pas eu d'avant et d'après Notre-Dame pour les cathédrales appartenant aux communes.",
+      "titre": "Assemblée nationale, rapport d'information n° 1237 - plan sécurité cathédrales - mai 2023, voir p. 9 à 16 (PDF, 0,5 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/AN_Rapport_information_1237_2023-05-16_Plan_securite_cathedrales.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "interieur-2024-notre-dame",
+      "nature": "document ministériel ou préfectoral",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "Selon le ministère de l'intérieur, les cérémonies de réouverture de la cathédrale Notre-Dame de Paris ont lieu les 7 et 8 décembre 2024, cinq ans après l'incendie.",
+      "notes": "Page web relevée en texte seul, sans les photographies, avec son adresse et sa date de consultation.",
+      "titre": "Ministère de l'intérieur - Notre-Dame de Paris, une renaissance - décembre 2024 (PDF, 0,1 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ministere_Interieur_2024-12-05_Notre-Dame_renaissance.pdf",
+      "format": "PDF"
+    },
+    {
+      "id": "circulaire-1926",
+      "nature": "texte réglementaire",
+      "typeDeSource": "source institutionnelle",
+      "certitude": "confirmée",
+      "affirmation": "La circulaire du 12 mai 1926 transmet aux préfets un projet d'arrêté-type destiné à servir de guide aux municipalités qui réglementent la construction, l'aménagement et l'usage des établissements ouverts au public. Ses 287 articles couvrent les établissements de spectacles (articles 1 à 212), les grands magasins et établissements divers recevant du public (articles 213 à 285) et les mesures d'exécution (articles 286 et 287). Son article 208 institue une sous-commission constituée par le maire, chargée de visiter chaque établissement tous les six mois et à la réouverture annuelle. Pour les grands magasins, ses articles 213 à 217 imposent une demande d'autorisation de construire au maire avec plans détaillés, une déclaration pour l'exploitation d'un magasin existant de plus de 1 500 mètres carrés, la décision du maire après avis d'une commission consultative et l'interdiction de commencer les travaux avant approbation des plans. Son article 218 soumet toute ouverture au public à une visite de réception, l'autorisation étant délivrée par le maire après avis conforme de la commission consultative, et son article 219 prévoit la visite de chaque établissement au moins deux fois par an, dont l'une avec épreuves des moyens de secours. Ses articles 220 et 221 veulent des magasins parfaitement clos et entièrement construits en matériaux incombustibles, et la protection de toutes les pièces de charpente, en fer ou en bois, par un enduit de ciment ou de plâtre armé d'au moins cinq centimètres ou par des briques.",
+      "titre": "Circulaire du 12 mai 1926 - prévention incendie des salles de spectacle (PDF, 2,8 Mo)",
+      "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Circulaire_1926-05-12_Mesures_preventives_incendie_salles_spectacle_et_lieux_publics.pdf",
+      "format": "PDF"
+    }
+  ]
+}
