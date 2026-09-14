@@ -23,8 +23,8 @@
     "url": "https://creativecommons.org/licenses/by/4.0/deed.fr",
     "portee": "La licence couvre les descriptions, résumés et affirmations rédigés pour ce jeu de données. Les documents officiels référencés restent soumis à leur propre régime."
   },
-  "citationRecommandee": "Alan Laffeach, Continuum Solutions, « La Mémoire du Feu », https://continuumsolutions.fr/histoire-reglementaire, version du 2026-09-13, licence CC BY 4.0.",
-  "dateModification": "2026-09-13",
+  "citationRecommandee": "Alan Laffeach, Continuum Solutions, « La Mémoire du Feu », https://continuumsolutions.fr/histoire-reglementaire, version du 2026-09-14, licence CC BY 4.0.",
+  "dateModification": "2026-09-14",
   "nombreSinistres": 17,
   "nombreDocuments": 58,
   "nombrePreuves": 60,
@@ -508,6 +508,7 @@
       "notes": "Mention historique figurant dans un rapport consacré aux personnels de santé des services d'incendie et de secours, et non dans un travail d'histoire.",
       "titre": "Assemblée nationale, rapport n° 994 du 19 février 2024, voir p. 38 (PDF, 1,3 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/AN_Rapport_994_2024-02-19_Personnels_de_sante_des_services_d_incendie.pdf",
+      "pagePdf": 38,
       "format": "PDF"
     },
     {
@@ -557,7 +558,7 @@
       "certitude": "confirmée",
       "affirmation": "Le rapport de Félix Roussel au Conseil municipal de Paris, daté du 1er mars 1904, établit les faits et les causes de l'accident du 10 août 1903 et reproduit les actes pris à sa suite. Son chapitre XVI hiérarchise les causes : cause primordiale l'incendie de la motrice, cause déterminante le fait de l'avoir conduite dans le souterrain sans l'isoler du courant, cause directe le maintien des voyageurs dans la station menacée, cause aggravante l'extinction de l'éclairage. Son chapitre XVII rappelle que le Métropolitain est un chemin de fer d'intérêt local au sens de la loi du 30 mars 1898 et que le pouvoir de police appartient au Préfet de police. Son chapitre XVIII reproduit les injonctions A, B et C notifiées à la Compagnie le 19 août 1903. Son annexe XIX reproduit le projet d'arrêté transmis à la Compagnie le 9 mars 1904, dont l'article premier impose un éclairage de secours permanent alimenté par une source entièrement extérieure au chemin de fer et indépendante de l'alimentation de la traction, le sectionnement du rail de prise de courant et des commandes de coupure espacées de cent mètres au plus.",
       "notes": "Les pages 617 à 621 portent un projet d'arrêté joint à une lettre du Préfet de police, non un arrêté en vigueur. Ne pas écrire que l'arrêté du 9 mars 1904 a prescrit ces mesures tant que l'acte signé n'a pas été retrouvé.",
-      "titre": "Rapport Roussel - accident du métro du 10 août 1903 - Conseil municipal de Paris, 1904 (PDF, 21,4 Mo)",
+      "titre": "Rapport Roussel - accident du métro du 10 août 1903 - Conseil municipal de Paris, 1904 (PDF, 21,3 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_Roussel_1904-03-01_Accident_Metropolitain_10-aout-1903_Conseil_municipal_Paris.pdf",
       "format": "PDF"
     },
@@ -587,7 +588,7 @@
       "typeDeSource": "source primaire",
       "certitude": "confirmée",
       "affirmation": "L'ordonnance de police du 1er septembre 1898 remplace celle du 16 mai 1881 pour les théâtres, cafés-concerts et autres spectacles publics, après délibérations de la Commission supérieure des théâtres des 3 et 4 août 1898.",
-      "titre": "Ordonnance du préfet de police du 1er septembre 1898 - théâtres et spectacles (PDF, 7,1 Mo)",
+      "titre": "Ordonnance du préfet de police du 1er septembre 1898 - théâtres et spectacles (PDF, 7,0 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ordonnance_PP_1898-09-01_Theatres_cafes-concerts_et_autres_spectacles_publics.pdf",
       "format": "PDF"
     },
@@ -610,6 +611,7 @@
       "affirmation": "L'avis du Sénat sur les crédits de la sécurité civile pour 2014 indique qu'à la suite du feu qui a ravagé, le 28 octobre 1938, le grand magasin des Nouvelles Galeries sur la Canebière, le président du Conseil Édouard Daladier crée, par un décret-loi du 29 juillet 1939, le bataillon des marins-pompiers de Marseille.",
       "titre": "Avis du Sénat n° 162 (2013-2014) - sécurité civile, voir p. 34 (PDF, 0,8 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_Avis_162_2013-2014_Securite_civile.pdf",
+      "pagePdf": 34,
       "format": "PDF"
     },
     {
@@ -621,6 +623,7 @@
       "notes": "La Ville de Marseille retient 73 morts. Le chiffre de 38 morts donné par le rapport IGA-IGAS de 2014 n'est pas retenu.",
       "titre": "Rapport 2004 de l'Observatoire national de la sécurité des établissements scolaires, voir p. 73 (PDF, 1,8 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_ONS_2004_Observatoire_national_securite_etablissements_scolaires.pdf",
+      "pagePdf": 70,
       "format": "PDF"
     },
     {
@@ -640,7 +643,7 @@
       "typeDeSource": "source primaire",
       "certitude": "confirmée",
       "affirmation": "Le décret du 7 février 1941 constitue le premier règlement de sécurité de portée nationale applicable aux établissements recevant du public.",
-      "titre": "Décret du 7 février 1941 - sécurité incendie des locaux recevant du public (PDF, 2,2 Mo)",
+      "titre": "Décret du 7 février 1941 - sécurité incendie des locaux recevant du public (PDF, 8,1 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Decret_1941_02_07_Reglement_National_ERP_Complet_JODEF.pdf",
       "format": "PDF"
     },
@@ -671,7 +674,7 @@
       "certitude": "confirmée",
       "affirmation": "L'arrêté du 23 mars 1965 approuve le règlement de sécurité qui succède aux textes de 1954. Dans sa version d'origine, il ne comporte ni titre VI ni établissements de 5e catégorie.",
       "notes": "Vérifié par extraction du fac-similé du Journal officiel du 30 mars 1965 : aucune occurrence de « 5e catégorie », « cinquième catégorie » ou « titre VI ».",
-      "titre": "Arrêté du 23 mars 1965 - règlement de sécurité des ERP (PDF, 8,1 Mo)",
+      "titre": "Arrêté du 23 mars 1965 - règlement de sécurité des ERP (PDF, 8,0 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Arrete_1965_03_23_Reglement_Securite_ERP_JORF.pdf",
       "format": "PDF"
     },
@@ -694,6 +697,7 @@
       "affirmation": "Le rapport 2004 de l'Observatoire national de la sécurité des établissements scolaires retrace l'évolution de la réglementation à la suite des sinistres graves. Il retient 146 morts au dancing Le Cinq-Sept le 1er novembre 1970 et rattache ce sinistre au décret du 31 octobre 1973, qui renforce les obligations des propriétaires et des exploitants ainsi que les contrôles.",
       "titre": "Rapport 2004 de l'Observatoire national de la sécurité des établissements scolaires, voir p. 73 (PDF, 1,8 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_ONS_2004_Observatoire_national_securite_etablissements_scolaires.pdf",
+      "pagePdf": 70,
       "format": "PDF"
     },
     {
@@ -722,8 +726,9 @@
       "typeDeSource": "source primaire",
       "certitude": "confirmée",
       "affirmation": "Le rapport de la mission d'information du Sénat sur les constructions scolaires, constituée à la suite de l'incendie du collège Pailleron, relève qu'un même processus a permis la construction d'établissements « Constructions modulaires » non conformes aux règlements de sécurité (p. 16) et souligne les dangers du non-examen systématique des procédés de base avant leur agrément (p. 95). Il indique que l'administration centrale poursuivait déjà la refonte du décret du 13 août 1954 avant le sinistre (p. 91), et que le décret du 31 octobre 1973 soumet les établissements des personnes de droit public au régime des commissions de sécurité, impose l'avis de la commission centrale pour les procédés de construction destinés à être répétés et prévoit un responsable désigné, précisé par les arrêtés du 14 mai 1975 (p. 93 à 95). Il conclut que le procédé tel qu'il a été réalisé n'assurait pas une stabilité au feu suffisante (p. 263 à 265).",
-      "titre": "Rapport du Sénat n° 185 (1974-1975), tome I - constructions scolaires, CES Pailleron, voir p. 16, 91 à 97 et 263 à 265 (PDF, 18,5 Mo)",
+      "titre": "Rapport du Sénat n° 185 (1974-1975), tome I - constructions scolaires, CES Pailleron, voir p. 16, 91 à 97 et 263 à 265 (PDF, 18,4 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_Rapport_information_185_1974-1975_Constructions_scolaires_T1.pdf",
+      "pagePdf": 19,
       "format": "PDF"
     },
     {
@@ -732,8 +737,9 @@
       "typeDeSource": "source primaire",
       "certitude": "confirmée",
       "affirmation": "Le tome II du rapport du Sénat reproduit l'enquête administrative de février 1973 et la chronologie de l'incendie établie d'après les sapeurs-pompiers : mise à feu entre 19 h 25 et 19 h 30, alerte à 19 h 45, effondrement de l'angle nord-est vers 20 heures et de la partie centrale à 20 h 10. Cinquante-deux élèves du conservatoire municipal occupaient quatre salles du deuxième étage. L'expert de la mission décrit la propagation par les cloisons en panneaux de particules et par les vides entre faux plafonds et planchers, où des canalisations de gaz ont cédé, et la déformation des poteaux métalliques pas ou mal protégés. L'annexe VIII recense les circulaires de 1973 et les arrêtés du 14 mai 1975.",
-      "titre": "Rapport du Sénat n° 185 (1974-1975), tome II - annexes, voir p. 11 à 25 et 97-98 (PDF, 8,6 Mo)",
+      "titre": "Rapport du Sénat n° 185 (1974-1975), tome II - annexes, voir p. 11 à 25 et 97-98 (PDF, 8,5 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_Rapport_information_185_1974-1975_Constructions_scolaires_T2.pdf",
+      "pagePdf": 12,
       "format": "PDF"
     },
     {
@@ -804,8 +810,9 @@
       "certitude": "confirmée",
       "affirmation": "Le rapport de l'Inspection générale de l'administration et de l'Inspection générale des affaires sociales sur la prévention du risque incendie dans les ERP et IGH écrit que « le décret du 15 juillet 1949 fera suite au feu du cinéma le Sélect, à Rueil Malmaison, en 1947 (89 morts) » et qu'il fixera les conditions d'essai et la classification des matériaux de construction par rapport à la protection contre l'incendie dans les ERP (p. 22). Il indique par ailleurs que les sinistres des thermes de Barbotan, du stade de Furiani et de la clinique de Bruz conduiront à l'adoption du décret du 8 mars 1995, qui réorganisera les commissions de sécurité (p. 24).",
       "notes": "Les mêmes pages donnent des bilans inexacts pour le Cinq-Sept, Pailleron, Furiani, Bruz et l'hôtel Paris-Opéra, et attribuent la 5e catégorie au règlement de 1965 : ne s'y appuyer ni pour les bilans ni pour la chronologie du classement.",
-      "titre": "Rapport IGA & IGAS - prévention incendie ERP - IGH - juin 2014, voir p. 22 et 24 (PDF, 6,5 Mo)",
+      "titre": "Rapport IGA & IGAS - prévention incendie ERP - IGH - juin 2014, voir p. 22 et 24 (PDF, 6,3 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/IGA_IGAS_2014-06_Rapport_prevention_risque_incendie_ERP_IGH.pdf",
+      "pagePdf": 22,
       "format": "PDF"
     },
     {
@@ -814,8 +821,9 @@
       "typeDeSource": "source institutionnelle",
       "certitude": "confirmée",
       "affirmation": "Le rapport n° 2136 de Mme Christine Lazerges, du 2 février 2000, cite l'incendie des thermes de Barbotan en 1991, avec l'effondrement du stade de Furiani, les inondations de Vaison-la-Romaine et les noyades du Drac, parmi les affaires mettant en cause des élus locaux qui ont relancé le débat sur leur responsabilité pénale. Un groupe d'étude présidé par M. Jacques Fournier est mis en place à la suite de ces affaires, et la loi du 13 mai 1996 s'inspire largement de ses conclusions pour compléter l'article 121-3 du code pénal (p. 28).",
-      "titre": "Rapport Lazerges n° 2136 - Assemblée nationale, février 2000, voir p. 28 (PDF, 1,2 Mo)",
+      "titre": "Rapport Lazerges n° 2136 - Assemblée nationale, février 2000, voir p. 28 (PDF, 1,1 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/AN_Rapport_2136_Lazerges_2000-02-02_Presomption_innocence_droits_victimes.pdf",
+      "pagePdf": 29,
       "format": "PDF"
     },
     {
@@ -837,6 +845,7 @@
       "affirmation": "Séance du Sénat du 14 octobre 2021, adoption définitive de la proposition de loi visant au gel des matchs de football le 5 mai. Au banc du gouvernement, la ministre déléguée rappelle le bilan de la catastrophe de Furiani : 19 décès et 2 357 blessés. Un sénateur de Haute-Corse précise que 18 personnes meurent lors de l'effondrement et que la dernière victime décède deux ans et demi après.",
       "titre": "Sénat, compte rendu intégral de la séance du 14 octobre 2021, gel des matchs le 5 mai, voir p. 5 à 19 (PDF, 4,5 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Senat_CR_2021-10-14_Seance_du_14_octobre_2021.pdf",
+      "pagePdf": 5,
       "format": "PDF"
     },
     {
@@ -896,8 +905,9 @@
       "certitude": "confirmée",
       "affirmation": "Le rapport de la mission d'enquête administrative de l'inspection générale de l'administration, du conseil général des ponts et chaussées, des inspections générales de la jeunesse et des sports et du tourisme et de la direction de la défense et de la sécurité civiles, remis en août 2004, établit que l'incendie du centre équestre des Bauges a fait huit morts, six mineurs, un jeune adulte et une employée, et une blessée grave. Le gîte occupait une ferme traditionnelle en trois secteurs mitoyens, dont un stockage de bottes de foin et un dortoir sous charpente. L'établissement, ERP de 5e catégorie, n'avait jamais été visité par une commission de sécurité ; aucun permis n'avait été demandé pour le changement de destination. La mission juge les mesures de protection insuffisantes au regard du risque, estime que rien ne permet de dire que l'incendie était évitable, mais que l'application stricte des règles de sécurité aurait probablement pu limiter les conséquences humaines. Elle recommande notamment de modifier les articles R. 123-14 et R. 123-45 du code de la construction et de l'habitation.",
       "notes": "La mission n'a pas recherché les causes du sinistre, qui relèvent de l'autorité judiciaire. Selon la base ARIA du ministère de la transition écologique, le parquet de Chambéry a indiqué en novembre 2005 que les experts n'avaient pu déterminer l'origine précise du feu.",
-      "titre": "Rapport de la mission d'enquête administrative sur l'incendie de Lescheraines - août 2004, voir p. 12 à 16 (PDF, 1,1 Mo)",
+      "titre": "Rapport de la mission d'enquête administrative sur l'incendie de Lescheraines - août 2004, voir p. 12 à 16 (PDF, 1,0 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_mission_enquete_administrative_2004-08_Incendie_centre_equestre_Lescheraines.pdf",
+      "pagePdf": 18,
       "format": "PDF"
     },
     {
@@ -1001,6 +1011,7 @@
       "affirmation": "Le rapport de l'inspection générale de l'administration, de l'inspection générale des affaires sociales, du conseil général de l'environnement et du développement durable et du contrôle général économique et financier de mars 2011 indique que le renforcement de la réglementation de la petite hôtellerie a été décidé à la suite de l'incendie de l'hôtel Paris-Opéra, qui avait souligné la nécessité de généraliser des dispositifs de détection et d'évacuation plus adaptés. Selon lui, l'incendie a mis en évidence les limites des dispositions alors en vigueur, notamment une protection encore insuffisante des circulations et des escaliers ; il rappelle qu'avant 2006 les arrêtés de 1976 et 1990 donnaient déjà cinq ans aux hôtels existants, et recommande une approche plus fine, en particularisant les plus petits établissements.",
       "titre": "Rapport IGA, IGAS, CGEDD et CGEFi - sécurité incendie de la petite hôtellerie - mars 2011, voir p. 5 et 12 (PDF, 2,1 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Rapport_IGA_IGAS_CGEDD_CGEFi_2011-03_Securite_incendie_petite_hotellerie.pdf",
+      "pagePdf": 9,
       "format": "PDF"
     },
     {
@@ -1085,6 +1096,7 @@
       "notes": "Le plan date la note du ministre de l'intérieur relative aux plans ÉTARÉ du 19 mai 2019 en page 4, et du 10 mai 2019 en pages 14 et 28.",
       "titre": "Ministère de la culture - plan d'actions sécurité des cathédrales - mai 2023, voir p. 3 à 8 (PDF, 1,9 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Ministere_Culture_2023-05_Plan_actions_securite_cathedrales.pdf",
+      "pagePdf": 3,
       "format": "PDF"
     },
     {
@@ -1095,6 +1107,7 @@
       "affirmation": "Le rapport d'information n° 1237 de la commission des finances de l'Assemblée nationale, du 16 mai 2023, relève que Notre-Dame était considérée comme la référence en matière de sécurité incendie des bâtiments patrimoniaux, que le ministère de la culture a audité les 87 cathédrales de l'État dès 2019, que les cathédrales au niveau de sécurité insuffisant sont passées de 15 à 3 et celles sous avis défavorable de 15 à 4, que les plans de sauvegarde des biens culturels sont passés de 13 à 66, et qu'il n'y a pas eu d'avant et d'après Notre-Dame pour les cathédrales appartenant aux communes.",
       "titre": "Assemblée nationale, rapport d'information n° 1237 - plan sécurité cathédrales - mai 2023, voir p. 9 à 16 (PDF, 0,5 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/AN_Rapport_information_1237_2023-05-16_Plan_securite_cathedrales.pdf",
+      "pagePdf": 9,
       "format": "PDF"
     },
     {
@@ -1114,7 +1127,7 @@
       "typeDeSource": "source institutionnelle",
       "certitude": "confirmée",
       "affirmation": "La circulaire du 12 mai 1926 transmet aux préfets un projet d'arrêté-type destiné à servir de guide aux municipalités qui réglementent la construction, l'aménagement et l'usage des établissements ouverts au public. Ses 287 articles couvrent les établissements de spectacles (articles 1 à 212), les grands magasins et établissements divers recevant du public (articles 213 à 285) et les mesures d'exécution (articles 286 et 287). Son article 208 institue une sous-commission constituée par le maire, chargée de visiter chaque établissement tous les six mois et à la réouverture annuelle. Pour les grands magasins, ses articles 213 à 217 imposent une demande d'autorisation de construire au maire avec plans détaillés, une déclaration pour l'exploitation d'un magasin existant de plus de 1 500 mètres carrés, la décision du maire après avis d'une commission consultative et l'interdiction de commencer les travaux avant approbation des plans. Son article 218 soumet toute ouverture au public à une visite de réception, l'autorisation étant délivrée par le maire après avis conforme de la commission consultative, et son article 219 prévoit la visite de chaque établissement au moins deux fois par an, dont l'une avec épreuves des moyens de secours. Ses articles 220 et 221 veulent des magasins parfaitement clos et entièrement construits en matériaux incombustibles, et la protection de toutes les pièces de charpente, en fer ou en bois, par un enduit de ciment ou de plâtre armé d'au moins cinq centimètres ou par des briques.",
-      "titre": "Circulaire du 12 mai 1926 - prévention incendie des salles de spectacle (PDF, 2,8 Mo)",
+      "titre": "Circulaire du 12 mai 1926 - prévention incendie des salles de spectacle (PDF, 2,7 Mo)",
       "url": "https://continuumsolutions.fr/docs/reglementations-historiques/Circulaire_1926-05-12_Mesures_preventives_incendie_salles_spectacle_et_lieux_publics.pdf",
       "format": "PDF"
     }
